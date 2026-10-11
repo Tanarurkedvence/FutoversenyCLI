@@ -42,8 +42,8 @@
             Console.WriteLine($"10 km: {f7.Count()} indulóból {f7.Count() - nemcelbaerok} ért célba, legjobb idő: {f7.Min(x => x.Time)}");
 
             var f8 = runners.Where(x => x.Distance.DistanceName == "Félmaraton").OrderBy(x => x.Distance.DistanceID);
-            int fingocskák = f8.Count(x => x.Time == "DNF");
-            Console.WriteLine($"Félmaraton: {f8.Count()} indulóból {f8.Count() - fingocskák} ért célba, legjobb idő: {f8.Min(x => x.Time)}");
+            int feladtak = f8.Count(x => x.Time == "DNF");
+            Console.WriteLine($"Félmaraton: {f8.Count()} indulóból {f8.Count() - feladtak} ért célba, legjobb idő: {f8.Min(x => x.Time)}");
 
             var f9 = runners.Where(x => x.Distance.DistanceName == "Maraton").OrderBy(x => x.Distance.DistanceID);
             int benak = f9.Count(x => x.Time == "DNF");
