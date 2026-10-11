@@ -1,0 +1,7 @@
+1;Kocsis Lilla;1:29:55
+2;Varga Hanna;1:33:47
+3;Szalai Fanni;1:41:09
+4;Fehér Réka;1:48:02
+5;Takács Dóra;1:55:14
+6;Rácz Boglárka;2:02:30
+7;Magyar Eszter;2:11:41

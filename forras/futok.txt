@@ -1,0 +1,1421 @@
+StartNumber;Name;Gender;BirthYear;ClubID;ClubName;DistanceID;DistanceName;Meters;Time;City
+1012;Németh Zsófia;N;1994;3;Mátra SE;2;Félmaraton;21098;1:52:10;Szentendre
+2724;Király Lilla;N;1975;3;Mátra SE;1;10 km;10000;0:49:11;Debrecen
+2003;Kis Balázs;F;1963;4;Tisza Runners;1;10 km;10000;1:15:46;Budapest
+1745;Mészáros Máté;F;1968;1;Egyesület nélkül;3;Maraton;42195;4:32:43;Miskolc
+1839;Juhász Beáta;N;1995;1;Egyesület nélkül;3;Maraton;42195;3:40:59;Gyöngyös
+1703;Mészáros Beáta;N;1961;1;Egyesület nélkül;2;Félmaraton;21098;2:53:29;Balassagyarmat
+2075;László István;F;1964;4;Tisza Runners;3;Maraton;42195;3:06:27;Győr
+1083;Németh Fanni;N;1984;1;Egyesület nélkül;1;10 km;10000;0:39:01;Miskolc
+1744;László Ádám;F;1971;1;Egyesület nélkül;3;Maraton;42195;5:31:05;Szeged
+1981;Molnár Katalin;N;1982;3;Mátra SE;2;Félmaraton;21098;1:31:38;Gyöngyös
+2170;Török Zoltán;F;2000;3;Mátra SE;1;10 km;10000;0:34:05;Szolnok
+2536;Takács Dávid;F;2003;2;Dunakanyar Futóklub;2;Félmaraton;21098;DNF;Győr
+2624;Kiss Dániel;F;2002;8;Alföldi Szél SE;2;Félmaraton;21098;2:03:02;Pécs
+1741;Varga Boglárka;N;1968;1;Egyesület nélkül;1;10 km;10000;0:39:02;Pécs
+1464;Lukács Viktor;F;2001;5;Bükk Trail Team;1;10 km;10000;DNF;Szolnok
+1409;Takács Gábor;F;1967;4;Tisza Runners;1;10 km;10000;1:27:07;Miskolc
+1874;Szűcs Dániel;F;1955;3;Mátra SE;1;10 km;10000;0:59:08;Gyöngyös
+2774;Bíró Péter;F;1990;4;Tisza Runners;1;10 km;10000;0:42:58;Balassagyarmat
+1973;Mészáros Orsolya;N;1959;1;Egyesület nélkül;1;10 km;10000;1:02:26;Szolnok
+1680;Farkas Lili;N;1973;2;Dunakanyar Futóklub;1;10 km;10000;1:14:34;Eger
+2838;Szilágyi Márk;F;1999;7;Balaton Running Club;2;Félmaraton;21098;2:19:40;Vác
+1119;Szűcs Ádám;F;2001;3;Mátra SE;2;Félmaraton;21098;2:29:06;Pécs
+1429;Katona Zsolt;F;2003;6;Pannon Futók;1;10 km;10000;1:19:24;Veszprém
+2429;Varga Réka;N;1983;1;Egyesület nélkül;2;Félmaraton;21098;2:51:30;Miskolc
+1701;Kiss Réka;N;1989;7;Balaton Running Club;3;Maraton;42195;3:01:27;Szeged
+2608;Takács Edina;N;1978;3;Mátra SE;2;Félmaraton;21098;2:38:50;Győr
+2445;Tóth László;F;1971;2;Dunakanyar Futóklub;1;10 km;10000;0:57:30;Szeged
+1491;Pintér Péter;F;1988;7;Balaton Running Club;1;10 km;10000;1:00:40;Veszprém
+2684;Fehér Hanna;N;1956;5;Bükk Trail Team;1;10 km;10000;1:08:17;Szentendre
+1232;Fehér Emese;N;2006;2;Dunakanyar Futóklub;1;10 km;10000;1:20:24;Miskolc
+1454;Fekete Edina;N;1977;1;Egyesület nélkül;1;10 km;10000;0:43:39;Budapest
+1419;Molnár Eszter;N;1967;2;Dunakanyar Futóklub;1;10 km;10000;1:27:11;Eger
+2857;Juhász Orsolya;N;1962;8;Alföldi Szél SE;1;10 km;10000;0:54:00;Szeged
+2835;Szalai Orsolya;N;1988;1;Egyesület nélkül;1;10 km;10000;1:03:36;Kecskemét
+2843;Balogh András;F;1994;8;Alföldi Szél SE;3;Maraton;42195;5:51:01;Veszprém
+1681;Kocsis Petra;N;1996;8;Alföldi Szél SE;1;10 km;10000;0:36:23;Szeged
+2395;Nagy Kinga;N;1959;3;Mátra SE;2;Félmaraton;21098;3:00:10;Gyöngyös
+1201;Kis Norbert;F;2007;1;Egyesület nélkül;1;10 km;10000;1:10:19;Szolnok
+1480;Balogh Tamás;F;1973;4;Tisza Runners;1;10 km;10000;DNF;Debrecen
+1282;Varga András;F;2000;7;Balaton Running Club;1;10 km;10000;0:46:09;Pécs
+2355;Pintér Dániel;F;2003;7;Balaton Running Club;2;Félmaraton;21098;2:24:36;Debrecen
+2217;Simon Tímea;N;2001;1;Egyesület nélkül;2;Félmaraton;21098;3:14:02;Debrecen
+2349;Szilágyi Dávid;F;2000;1;Egyesület nélkül;1;10 km;10000;0:42:58;Pécs
+1609;Simon Milán;F;1969;6;Pannon Futók;3;Maraton;42195;6:40:05;Balassagyarmat
+1925;Papp Nóra;N;1999;7;Balaton Running Club;2;Félmaraton;21098;2:24:18;Gödöllő
+1214;Nagy Orsolya;N;1962;1;Egyesület nélkül;3;Maraton;42195;6:37:49;Kecskemét
+2284;Oláh Ádám;F;1957;8;Alföldi Szél SE;3;Maraton;42195;2:56:24;Szeged
+1125;Szalai Vivien;N;1998;4;Tisza Runners;3;Maraton;42195;3:48:41;Veszprém
+1288;Gulyás Dániel;F;1959;1;Egyesület nélkül;1;10 km;10000;0:43:49;Gödöllő
+2508;Török Nóra;N;1975;2;Dunakanyar Futóklub;1;10 km;10000;DNF;Balassagyarmat
+2563;Papp Flóra;N;1973;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:08:09;Gödöllő
+2072;Bíró Máté;F;2005;8;Alföldi Szél SE;2;Félmaraton;21098;2:12:51;Gödöllő
+1774;Farkas Andrea;N;1965;1;Egyesület nélkül;1;10 km;10000;0:39:25;Budapest
+2259;Lakatos Gergő;F;2004;5;Bükk Trail Team;1;10 km;10000;1:14:30;Vác
+1848;Farkas Bence;F;1997;8;Alföldi Szél SE;2;Félmaraton;21098;2:44:24;Kecskemét
+2424;Kis Tibor;F;1973;6;Pannon Futók;1;10 km;10000;1:08:39;Gyöngyös
+1669;Juhász Edina;N;1989;4;Tisza Runners;2;Félmaraton;21098;3:05:11;Veszprém
+2938;Szabó Réka;N;1988;1;Egyesület nélkül;2;Félmaraton;21098;1:50:27;Kecskemét
+1719;Kovács Norbert;F;1996;8;Alföldi Szél SE;1;10 km;10000;1:09:24;Eger
+2478;Molnár Beáta;N;1998;2;Dunakanyar Futóklub;1;10 km;10000;0:39:30;Eger
+1456;Magyar Kinga;N;1985;8;Alföldi Szél SE;2;Félmaraton;21098;2:28:54;Balassagyarmat
+2565;Gulyás Gréta;N;1998;1;Egyesület nélkül;2;Félmaraton;21098;2:16:04;Szeged
+1507;Oláh Judit;N;1992;1;Egyesület nélkül;1;10 km;10000;1:28:57;Veszprém
+1695;Bíró Milán;F;1989;1;Egyesület nélkül;3;Maraton;42195;2:46:32;Győr
+2847;Szalai Nóra;N;1986;8;Alföldi Szél SE;1;10 km;10000;0:38:19;Pécs
+1348;Rácz Máté;F;2007;6;Pannon Futók;2;Félmaraton;21098;2:36:49;Debrecen
+2427;Szilágyi Attila;F;1957;1;Egyesület nélkül;1;10 km;10000;1:14:10;Szentendre
+1691;Papp Balázs;F;1980;7;Balaton Running Club;3;Maraton;42195;3:37:55;Győr
+2281;Gulyás Tibor;F;1989;6;Pannon Futók;1;10 km;10000;1:03:10;Veszprém
+1463;Balázs István;F;1990;4;Tisza Runners;3;Maraton;42195;4:03:32;Miskolc
+1678;Nagy Flóra;N;1986;1;Egyesület nélkül;1;10 km;10000;0:36:37;Kecskemét
+1861;Fodor Nóra;N;1976;1;Egyesület nélkül;2;Félmaraton;21098;1:52:25;Debrecen
+1793;Nagy András;F;1958;1;Egyesület nélkül;1;10 km;10000;1:22:41;Vác
+1913;Papp Rita;N;1991;1;Egyesület nélkül;2;Félmaraton;21098;2:01:01;Kecskemét
+2798;Pintér Olivér;F;1985;7;Balaton Running Club;1;10 km;10000;0:36:09;Balassagyarmat
+2407;Kocsis Krisztián;F;1993;1;Egyesület nélkül;3;Maraton;42195;5:38:23;Gyöngyös
+2848;Németh Viktória;N;1991;6;Pannon Futók;2;Félmaraton;21098;3:04:31;Veszprém
+1878;Tóth Lili;N;1980;6;Pannon Futók;1;10 km;10000;DNF;Eger
+1795;Juhász Gábor;F;2000;7;Balaton Running Club;1;10 km;10000;0:57:10;Kecskemét
+2944;Szilágyi Judit;N;1999;3;Mátra SE;1;10 km;10000;0:53:06;Győr
+2504;Rácz Péter;F;2002;2;Dunakanyar Futóklub;1;10 km;10000;1:21:44;Eger
+1501;Kis Mónika;N;1996;5;Bükk Trail Team;1;10 km;10000;1:21:39;Szeged
+1392;Orsós Hanna;N;1960;1;Egyesület nélkül;3;Maraton;42195;4:25:41;Budapest
+2216;Kis Gergő;F;1955;1;Egyesület nélkül;2;Félmaraton;21098;2:29:38;Szolnok
+2359;Balázs Viktor;F;1976;1;Egyesület nélkül;2;Félmaraton;21098;2:10:07;Veszprém
+2598;Papp Bence;F;1978;1;Egyesület nélkül;2;Félmaraton;21098;2:12:36;Veszprém
+2629;László Anna;N;1982;1;Egyesület nélkül;3;Maraton;42195;3:41:59;Kecskemét
+1014;Bíró Hanna;N;1990;1;Egyesület nélkül;1;10 km;10000;1:11:26;Szolnok
+1961;Németh Petra;N;1956;6;Pannon Futók;2;Félmaraton;21098;1:56:43;Eger
+1952;Mészáros Eszter;N;1994;5;Bükk Trail Team;2;Félmaraton;21098;2:37:20;Szeged
+1332;Fekete Zoltán;F;1991;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:49:26;Miskolc
+1988;Török Gréta;N;1995;1;Egyesület nélkül;1;10 km;10000;1:28:25;Debrecen
+1186;Gál Zita;N;1975;2;Dunakanyar Futóklub;1;10 km;10000;DNF;Gödöllő
+1690;Fodor Gábor;F;1977;1;Egyesület nélkül;2;Félmaraton;21098;2:57:32;Balassagyarmat
+2017;Oláh Anna;N;1983;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:04:20;Veszprém
+1114;Szűcs Attila;F;1961;2;Dunakanyar Futóklub;3;Maraton;42195;3:11:56;Balassagyarmat
+1721;Horváth Sándor;F;1981;3;Mátra SE;2;Félmaraton;21098;2:32:47;Szentendre
+1068;Juhász János;F;2001;6;Pannon Futók;1;10 km;10000;1:01:41;Gyöngyös
+2362;Horváth Orsolya;N;2005;7;Balaton Running Club;3;Maraton;42195;4:22:56;Miskolc
+1569;Kovács Mónika;N;1990;5;Bükk Trail Team;3;Maraton;42195;4:51:37;Kecskemét
+2597;Mészáros Zsolt;F;1964;8;Alföldi Szél SE;1;10 km;10000;1:00:10;Miskolc
+2532;Lukács Flóra;N;1998;8;Alföldi Szél SE;1;10 km;10000;0:46:01;Balassagyarmat
+2908;Szilágyi Zoltán;F;1996;7;Balaton Running Club;2;Félmaraton;21098;2:03:59;Győr
+1406;Fekete Andrea;N;1955;6;Pannon Futók;2;Félmaraton;21098;2:08:41;Eger
+1692;Fekete Olivér;F;1978;5;Bükk Trail Team;2;Félmaraton;21098;2:55:09;Budapest
+1486;Németh Ildikó;N;1982;6;Pannon Futók;2;Félmaraton;21098;2:22:08;Debrecen
+1938;Oláh Flóra;N;1955;1;Egyesület nélkül;1;10 km;10000;1:26:00;Vác
+1499;Gulyás Márk;F;1962;3;Mátra SE;3;Maraton;42195;4:33:05;Szolnok
+2696;Gál Dániel;F;1995;8;Alföldi Szél SE;3;Maraton;42195;3:55:35;Vác
+2973;Szabó Csilla;N;1985;8;Alföldi Szél SE;1;10 km;10000;1:10:07;Kecskemét
+1085;Lukács Boglárka;N;2000;3;Mátra SE;2;Félmaraton;21098;1:35:31;Vác
+2614;Szűcs Milán;F;1985;1;Egyesület nélkül;1;10 km;10000;1:16:14;Veszprém
+1851;Pintér Nóra;N;1995;9;Kékes Futóbarátok;2;Félmaraton;21098;2:04:18;Eger
+2537;Lakatos Zoltán;F;1972;1;Egyesület nélkül;2;Félmaraton;21098;DNF;Balassagyarmat
+1080;Varga László;F;1963;6;Pannon Futók;2;Félmaraton;21098;2:27:05;Balassagyarmat
+2854;Török Dóra;N;1969;5;Bükk Trail Team;1;10 km;10000;DNF;Szolnok
+2268;Takács Kinga;N;1962;1;Egyesület nélkül;1;10 km;10000;1:29:21;Budapest
+2690;Oláh Lilla;N;2007;3;Mátra SE;1;10 km;10000;1:22:33;Vác
+1052;Kocsis Márk;F;1983;1;Egyesület nélkül;2;Félmaraton;21098;2:11:26;Balassagyarmat
+1906;Juhász Dániel;F;1996;1;Egyesület nélkül;2;Félmaraton;21098;2:25:40;Gyöngyös
+2469;Sipos Dóra;N;2008;1;Egyesület nélkül;1;10 km;10000;1:25:24;Győr
+2296;Németh Richárd;F;1993;3;Mátra SE;1;10 km;10000;0:49:00;Győr
+2238;Fekete Márk;F;1993;4;Tisza Runners;3;Maraton;42195;2:37:04;Szeged
+2609;Papp Ildikó;N;1964;8;Alföldi Szél SE;2;Félmaraton;21098;2:35:43;Szentendre
+1321;Molnár Ferenc;F;1974;1;Egyesület nélkül;3;Maraton;42195;DNF;Eger
+2861;Katona Máté;F;1996;1;Egyesület nélkül;1;10 km;10000;0:54:12;Szeged
+2980;Fodor Dóra;N;1975;7;Balaton Running Club;2;Félmaraton;21098;1:38:48;Szolnok
+2947;Szilágyi András;F;1968;1;Egyesület nélkül;2;Félmaraton;21098;1:56:01;Szolnok
+1914;Szilágyi Eszter;N;1991;1;Egyesület nélkül;3;Maraton;42195;6:58:23;Veszprém
+1612;Sipos János;F;1968;3;Mátra SE;2;Félmaraton;21098;1:42:51;Gyöngyös
+2840;Gál Zoltán;F;1993;1;Egyesület nélkül;1;10 km;10000;1:05:41;Pécs
+2829;Kovács Kinga;N;1968;1;Egyesület nélkül;1;10 km;10000;1:24:13;Szeged
+1124;Kocsis Hanna;N;2008;5;Bükk Trail Team;1;10 km;10000;0:44:26;Budapest
+2762;Simon Andrea;N;1980;3;Mátra SE;3;Maraton;42195;4:40:21;Pécs
+2117;Kis Fanni;N;2009;4;Tisza Runners;3;Maraton;42195;4:20:23;Szolnok
+2903;Balázs Richárd;F;2006;1;Egyesület nélkül;1;10 km;10000;0:38:28;Balassagyarmat
+1283;Varga Viktor;F;1977;7;Balaton Running Club;1;10 km;10000;0:43:26;Miskolc
+1711;Lukács Csilla;N;1966;1;Egyesület nélkül;1;10 km;10000;1:22:58;Gödöllő
+2715;Pintér Lili;N;2007;1;Egyesület nélkül;1;10 km;10000;0:52:53;Szentendre
+2505;Szalai Emese;N;2003;1;Egyesület nélkül;1;10 km;10000;1:21:54;Pécs
+1970;Molnár András;F;1986;1;Egyesület nélkül;3;Maraton;42195;6:06:08;Debrecen
+1293;Rácz Dávid;F;2003;1;Egyesület nélkül;3;Maraton;42195;5:01:04;Eger
+2551;Szűcs Levente;F;1980;1;Egyesület nélkül;1;10 km;10000;1:09:05;Győr
+2920;Fehér Kristóf;F;1974;3;Mátra SE;1;10 km;10000;0:57:45;Szolnok
+2732;Szalai Levente;F;1976;4;Tisza Runners;1;10 km;10000;1:03:31;Budapest
+1540;Papp Tibor;F;1997;3;Mátra SE;1;10 km;10000;1:02:28;Eger
+1598;Király Andrea;N;1971;5;Bükk Trail Team;3;Maraton;42195;7:02:12;Vác
+2910;Papp Zsolt;F;1965;1;Egyesület nélkül;1;10 km;10000;1:22:09;Vác
+1054;Sipos István;F;1982;6;Pannon Futók;2;Félmaraton;21098;1:58:21;Győr
+1263;Papp Andrea;N;1969;6;Pannon Futók;2;Félmaraton;21098;1:43:32;Szolnok
+2693;László János;F;1987;5;Bükk Trail Team;1;10 km;10000;1:07:49;Szolnok
+1832;Mészáros Attila;F;1980;2;Dunakanyar Futóklub;2;Félmaraton;21098;1:49:32;Szeged
+2834;Fehér Krisztián;F;1976;1;Egyesület nélkül;1;10 km;10000;0:59:40;Eger
+2277;Török Tibor;F;1957;5;Bükk Trail Team;1;10 km;10000;0:51:40;Miskolc
+2833;Szűcs Flóra;N;1999;6;Pannon Futók;3;Maraton;42195;6:47:46;Gyöngyös
+1039;Kis Márk;F;1976;6;Pannon Futók;1;10 km;10000;0:44:55;Vác
+1742;Sipos Anna;N;1964;6;Pannon Futók;1;10 km;10000;1:05:19;Szolnok
+1980;Papp Viktor;F;1958;5;Bükk Trail Team;1;10 km;10000;0:54:48;Veszprém
+2154;Molnár Edina;N;1980;3;Mátra SE;2;Félmaraton;21098;DNF;Szentendre
+1339;Fodor Orsolya;N;1985;5;Bükk Trail Team;1;10 km;10000;0:58:17;Miskolc
+1558;Lakatos Ferenc;F;1970;6;Pannon Futók;2;Félmaraton;21098;DNF;Debrecen
+1606;Juhász Tamás;F;1977;7;Balaton Running Club;1;10 km;10000;0:37:00;Pécs
+1196;Kocsis Zoltán;F;2001;8;Alföldi Szél SE;3;Maraton;42195;4:55:49;Szeged
+2853;Németh Eszter;N;1985;6;Pannon Futók;1;10 km;10000;0:43:15;Debrecen
+1381;Kovács Tímea;N;1967;1;Egyesület nélkül;1;10 km;10000;0:55:48;Debrecen
+1029;Balázs Ferenc;F;1988;1;Egyesület nélkül;2;Félmaraton;21098;2:32:16;Gödöllő
+2475;Varga Balázs;F;2003;1;Egyesület nélkül;3;Maraton;42195;5:48:33;Debrecen
+1302;Szűcs Andrea;N;1984;6;Pannon Futók;1;10 km;10000;1:24:14;Gödöllő
+2191;Takács Orsolya;N;2001;1;Egyesület nélkül;1;10 km;10000;1:05:02;Győr
+1090;László Beáta;N;1968;2;Dunakanyar Futóklub;1;10 km;10000;0:39:04;Gyöngyös
+1554;Nagy Dávid;F;2004;1;Egyesület nélkül;3;Maraton;42195;5:29:02;Győr
+2940;Rácz Mónika;N;1998;3;Mátra SE;1;10 km;10000;0:43:16;Szeged
+2700;Fekete Tímea;N;1999;5;Bükk Trail Team;1;10 km;10000;0:38:53;Kecskemét
+1445;Bíró István;F;1992;1;Egyesület nélkül;2;Félmaraton;21098;2:59:54;Szeged
+2500;Szabó János;F;2009;8;Alföldi Szél SE;2;Félmaraton;21098;1:48:31;Budapest
+2785;Tóth Tibor;F;1958;7;Balaton Running Club;3;Maraton;42195;3:48:59;Győr
+1843;Fehér Richárd;F;1991;3;Mátra SE;1;10 km;10000;1:22:02;Szentendre
+1828;Varga Tímea;N;1961;3;Mátra SE;3;Maraton;42195;7:00:31;Szeged
+1191;Mészáros Anna;N;1986;3;Mátra SE;2;Félmaraton;21098;1:59:29;Debrecen
+2710;Szabó Krisztián;F;1966;2;Dunakanyar Futóklub;2;Félmaraton;21098;1:42:33;Győr
+1928;Rácz Márk;F;1992;4;Tisza Runners;2;Félmaraton;21098;1:53:36;Szolnok
+1911;László Péter;F;1993;6;Pannon Futók;2;Félmaraton;21098;2:24:23;Debrecen
+2809;Varga Zoltán;F;1991;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:03:39;Veszprém
+1753;Molnár Boglárka;N;1964;1;Egyesület nélkül;1;10 km;10000;0:53:20;Balassagyarmat
+2554;Farkas Ildikó;N;1981;8;Alföldi Szél SE;2;Félmaraton;21098;2:08:29;Debrecen
+1331;Pintér Vivien;N;1985;4;Tisza Runners;2;Félmaraton;21098;1:42:30;Gödöllő
+2028;Lukács Vivien;N;1969;1;Egyesület nélkül;1;10 km;10000;1:28:57;Budapest
+1017;Lakatos Máté;F;1991;6;Pannon Futók;1;10 km;10000;0:54:14;Debrecen
+1996;Papp Fanni;N;2006;5;Bükk Trail Team;1;10 km;10000;0:37:29;Veszprém
+1686;Kiss Ádám;F;1984;8;Alföldi Szél SE;2;Félmaraton;21098;2:57:17;Szeged
+1615;Mészáros Szilvia;N;1999;2;Dunakanyar Futóklub;1;10 km;10000;0:35:43;Eger
+2029;Kovács Zsófia;N;1974;1;Egyesület nélkül;2;Félmaraton;21098;1:33:17;Kecskemét
+2036;Fekete István;F;1995;7;Balaton Running Club;1;10 km;10000;1:13:35;Veszprém
+2523;Szűcs Eszter;N;2006;5;Bükk Trail Team;3;Maraton;42195;6:31:53;Szolnok
+1323;Kocsis Mónika;N;1964;3;Mátra SE;1;10 km;10000;1:20:03;Szentendre
+1238;Takács Zsolt;F;2005;7;Balaton Running Club;2;Félmaraton;21098;2:34:02;Gyöngyös
+1353;Orsós Judit;N;1972;7;Balaton Running Club;2;Félmaraton;21098;2:22:38;Vác
+1647;Molnár Balázs;F;1988;7;Balaton Running Club;1;10 km;10000;0:40:32;Debrecen
+1005;Mészáros Tamás;F;2006;1;Egyesület nélkül;2;Félmaraton;21098;2:48:58;Debrecen
+2144;Farkas Tamás;F;1974;7;Balaton Running Club;1;10 km;10000;DNF;Debrecen
+2764;Farkas Tibor;F;1965;4;Tisza Runners;2;Félmaraton;21098;DNF;Gödöllő
+1259;Tóth Zsolt;F;1957;3;Mátra SE;2;Félmaraton;21098;2:13:12;Gödöllő
+2163;Kis Lilla;N;1985;2;Dunakanyar Futóklub;2;Félmaraton;21098;3:13:07;Pécs
+1631;Papp Dániel;F;1980;1;Egyesület nélkül;1;10 km;10000;1:05:43;Veszprém
+1623;Szalai Hanna;N;1963;1;Egyesület nélkül;3;Maraton;42195;7:36:26;Vác
+1494;Szűcs János;F;1984;1;Egyesület nélkül;1;10 km;10000;0:46:58;Veszprém
+1148;Molnár Ildikó;N;1960;2;Dunakanyar Futóklub;3;Maraton;42195;DNF;Szeged
+2900;Lakatos Ildikó;N;1995;1;Egyesület nélkül;2;Félmaraton;21098;2:08:15;Szentendre
+1444;Horváth András;F;1987;2;Dunakanyar Futóklub;1;10 km;10000;DNF;Szeged
+2646;Németh Olivér;F;1983;5;Bükk Trail Team;2;Félmaraton;21098;2:57:33;Gyöngyös
+1610;Lakatos Rita;N;1986;3;Mátra SE;2;Félmaraton;21098;1:40:31;Győr
+1424;Magyar Eszter;N;2005;8;Alföldi Szél SE;2;Félmaraton;21098;2:11:41;Balassagyarmat
+1343;Takács Máté;F;1963;2;Dunakanyar Futóklub;2;Félmaraton;21098;1:36:23;Budapest
+2345;Fekete Richárd;F;1971;4;Tisza Runners;2;Félmaraton;21098;2:05:25;Balassagyarmat
+2995;Szilágyi János;F;1959;2;Dunakanyar Futóklub;1;10 km;10000;1:09:51;Debrecen
+1818;Király Krisztián;F;1989;1;Egyesület nélkül;2;Félmaraton;21098;2:19:29;Eger
+1804;Orsós Zita;N;1973;1;Egyesület nélkül;2;Félmaraton;21098;3:00:24;Eger
+1360;Molnár Zoltán;F;1965;1;Egyesület nélkül;3;Maraton;42195;6:45:42;Kecskemét
+2418;Balogh Ádám;F;1960;7;Balaton Running Club;1;10 km;10000;0:36:47;Szolnok
+2274;Kiss Attila;F;1956;4;Tisza Runners;3;Maraton;42195;6:38:49;Miskolc
+2035;Kocsis Máté;F;1981;2;Dunakanyar Futóklub;2;Félmaraton;21098;1:51:07;Gödöllő
+1033;Gál Edina;N;2003;1;Egyesület nélkül;1;10 km;10000;1:02:13;Veszprém
+1379;Gulyás Levente;F;2002;5;Bükk Trail Team;1;10 km;10000;0:52:23;Debrecen
+1528;Mészáros Boglárka;N;2002;1;Egyesület nélkül;2;Félmaraton;21098;2:51:53;Szeged
+2271;Farkas Krisztián;F;1993;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:40:50;Gödöllő
+1595;Farkas Edina;N;1974;3;Mátra SE;1;10 km;10000;1:20:17;Veszprém
+2369;Szabó Anna;N;1979;3;Mátra SE;3;Maraton;42195;4:42:39;Pécs
+1496;Takács Szilvia;N;1956;1;Egyesület nélkül;3;Maraton;42195;3:08:15;Pécs
+2487;Fodor Csilla;N;1986;1;Egyesület nélkül;2;Félmaraton;21098;2:11:43;Veszprém
+2137;Kocsis Tibor;F;1990;2;Dunakanyar Futóklub;1;10 km;10000;0:47:53;Balassagyarmat
+2628;Fekete Viktória;N;2003;1;Egyesület nélkül;3;Maraton;42195;3:44:07;Gyöngyös
+1796;Balogh Tibor;F;1996;5;Bükk Trail Team;2;Félmaraton;21098;1:58:29;Balassagyarmat
+2482;Varga Ildikó;N;2002;3;Mátra SE;1;10 km;10000;1:07:21;Gyöngyös
+1150;Szilágyi Mónika;N;1969;6;Pannon Futók;1;10 km;10000;1:01:29;Balassagyarmat
+1792;Németh Bence;F;2001;3;Mátra SE;1;10 km;10000;1:04:40;Debrecen
+2518;Szabó Rita;N;1958;6;Pannon Futók;1;10 km;10000;1:20:52;Szeged
+1468;Farkas Olivér;F;1985;5;Bükk Trail Team;2;Félmaraton;21098;1:18:14;Szolnok
+1095;Horváth Gergő;F;1991;6;Pannon Futók;2;Félmaraton;21098;1:49:33;Eger
+1567;Pintér Dóra;N;1996;1;Egyesület nélkül;3;Maraton;42195;6:52:25;Vác
+2979;Szabó Kristóf;F;1971;1;Egyesület nélkül;1;10 km;10000;1:20:54;Budapest
+1661;Kis Andrea;N;2006;6;Pannon Futók;1;10 km;10000;0:55:03;Szolnok
+2740;Szűcs Petra;N;1962;1;Egyesület nélkül;1;10 km;10000;1:24:40;Kecskemét
+2811;Juhász Anna;N;1991;4;Tisza Runners;1;10 km;10000;1:20:08;Kecskemét
+2195;Katona Viktória;N;1967;8;Alföldi Szél SE;1;10 km;10000;1:26:19;Gyöngyös
+2336;Orsós Szilvia;N;1977;1;Egyesület nélkül;3;Maraton;42195;5:53:57;Gödöllő
+2264;Szilágyi István;F;1985;1;Egyesület nélkül;2;Félmaraton;21098;1:37:08;Gyöngyös
+2602;Mészáros Judit;N;1974;1;Egyesület nélkül;1;10 km;10000;0:49:20;Debrecen
+2786;Lukács Zsolt;F;1987;6;Pannon Futók;2;Félmaraton;21098;2:00:00;Szeged
+1679;Szalai Dávid;F;1973;7;Balaton Running Club;2;Félmaraton;21098;2:14:45;Balassagyarmat
+1986;Nagy Olivér;F;1988;1;Egyesület nélkül;2;Félmaraton;21098;2:25:32;Vác
+2546;Szűcs Dávid;F;2000;8;Alföldi Szél SE;1;10 km;10000;0:34:55;Szentendre
+1122;Németh Csaba;F;1987;3;Mátra SE;1;10 km;10000;0:54:16;Kecskemét
+1021;Takács Ferenc;F;1995;1;Egyesület nélkül;1;10 km;10000;0:43:29;Szentendre
+2567;Balogh Zoltán;F;2006;1;Egyesület nélkül;3;Maraton;42195;3:33:33;Gödöllő
+1823;Szalai Kinga;N;2008;7;Balaton Running Club;1;10 km;10000;1:14:25;Gödöllő
+1016;Lukács Ádám;F;1981;7;Balaton Running Club;2;Félmaraton;21098;2:39:11;Szolnok
+2967;Rácz Zsolt;F;1989;4;Tisza Runners;3;Maraton;42195;5:26:47;Vác
+2057;Török Emese;N;1991;1;Egyesület nélkül;3;Maraton;42195;6:00:10;Debrecen
+1082;László Csilla;N;2006;1;Egyesület nélkül;1;10 km;10000;1:22:45;Pécs
+2463;Farkas Sándor;F;1982;8;Alföldi Szél SE;3;Maraton;42195;2:52:52;Eger
+2981;Kis Anna;N;1956;3;Mátra SE;2;Félmaraton;21098;3:27:38;Eger
+1140;Nagy Zsolt;F;1995;1;Egyesület nélkül;2;Félmaraton;21098;2:29:47;Gödöllő
+2391;Pintér Rita;N;1966;5;Bükk Trail Team;3;Maraton;42195;5:35:43;Gyöngyös
+1560;Takács Krisztián;F;1962;8;Alföldi Szél SE;2;Félmaraton;21098;3:10:41;Pécs
+2738;Gál Boglárka;N;2000;1;Egyesület nélkül;1;10 km;10000;1:12:30;Budapest
+2438;Gál Balázs;F;2003;6;Pannon Futók;1;10 km;10000;1:11:45;Gyöngyös
+2768;Pintér Réka;N;1987;1;Egyesület nélkül;2;Félmaraton;21098;2:02:40;Szeged
+2622;Lukács Orsolya;N;1977;7;Balaton Running Club;1;10 km;10000;0:57:54;Eger
+2921;Varga Dávid;F;1996;3;Mátra SE;1;10 km;10000;1:21:39;Szentendre
+1663;Németh Emese;N;1992;1;Egyesület nélkül;2;Félmaraton;21098;1:53:17;Eger
+2945;Kocsis Gréta;N;1997;6;Pannon Futók;2;Félmaraton;21098;1:40:30;Gyöngyös
+1808;Katona Boglárka;N;1959;7;Balaton Running Club;3;Maraton;42195;4:52:22;Győr
+1504;Szalai István;F;1979;8;Alföldi Szél SE;2;Félmaraton;21098;2:06:11;Budapest
+2388;Lukács Olivér;F;1957;7;Balaton Running Club;1;10 km;10000;0:37:50;Debrecen
+1107;Balázs Rita;N;1986;1;Egyesület nélkül;1;10 km;10000;1:01:41;Gödöllő
+2157;Rácz Beáta;N;1996;1;Egyesület nélkül;1;10 km;10000;DNF;Kecskemét
+1158;Nagy István;F;1993;8;Alföldi Szél SE;2;Félmaraton;21098;2:53:37;Miskolc
+1684;Varga Szilvia;N;1976;6;Pannon Futók;2;Félmaraton;21098;1:44:47;Eger
+1416;Molnár Viktor;F;2002;1;Egyesület nélkül;1;10 km;10000;0:37:09;Debrecen
+2683;Szűcs Gergő;F;1975;8;Alföldi Szél SE;3;Maraton;42195;4:58:34;Debrecen
+2346;Balázs Dóra;N;1973;8;Alföldi Szél SE;3;Maraton;42195;4:17:11;Pécs
+2156;Juhász Dóra;N;1962;3;Mátra SE;3;Maraton;42195;6:08:58;Szentendre
+2253;Rácz András;F;1961;3;Mátra SE;1;10 km;10000;0:48:42;Gyöngyös
+1946;Mészáros Csilla;N;1956;5;Bükk Trail Team;3;Maraton;42195;7:40:43;Győr
+1373;Sipos Emese;N;1980;2;Dunakanyar Futóklub;2;Félmaraton;21098;1:37:28;Miskolc
+2994;Fekete Petra;N;1960;1;Egyesület nélkül;1;10 km;10000;1:18:41;Debrecen
+1285;László Dóra;N;2000;4;Tisza Runners;1;10 km;10000;0:44:33;Veszprém
+1752;Farkas Dániel;F;1993;1;Egyesület nélkül;3;Maraton;42195;5:10:00;Miskolc
+2883;Magyar Boglárka;N;2006;8;Alföldi Szél SE;1;10 km;10000;0:56:33;Kecskemét
+2836;Szilágyi Gábor;F;1977;1;Egyesület nélkül;1;10 km;10000;0:48:31;Szeged
+2200;Horváth Petra;N;1979;3;Mátra SE;2;Félmaraton;21098;1:42:44;Eger
+2433;Lukács Gábor;F;1989;4;Tisza Runners;2;Félmaraton;21098;2:42:59;Debrecen
+2226;Kovács Katalin;N;1989;8;Alföldi Szél SE;3;Maraton;42195;3:50:02;Pécs
+2878;Balázs Petra;N;1991;6;Pannon Futók;1;10 km;10000;1:06:48;Debrecen
+2476;Fekete Zsolt;F;1986;1;Egyesület nélkül;2;Félmaraton;21098;1:23:20;Szeged
+2961;Pintér Gréta;N;1994;7;Balaton Running Club;2;Félmaraton;21098;2:49:22;Szeged
+2978;Pintér Kristóf;F;1958;4;Tisza Runners;3;Maraton;42195;5:44:12;Debrecen
+1819;Papp Szilvia;N;1989;5;Bükk Trail Team;2;Félmaraton;21098;3:01:58;Szeged
+2871;Németh Mónika;N;1977;6;Pannon Futók;2;Félmaraton;21098;2:26:50;Budapest
+2138;László Lili;N;1955;7;Balaton Running Club;3;Maraton;42195;4:57:01;Gödöllő
+2112;Lukács Bence;F;1955;5;Bükk Trail Team;2;Félmaraton;21098;3:02:22;Szentendre
+1840;Varga Emese;N;1996;8;Alföldi Szél SE;3;Maraton;42195;5:02:51;Balassagyarmat
+1630;Németh Balázs;F;1998;1;Egyesület nélkül;3;Maraton;42195;3:05:02;Szeged
+1064;Szűcs Ferenc;F;1992;2;Dunakanyar Futóklub;1;10 km;10000;1:21:06;Szentendre
+2855;Molnár Kinga;N;2001;7;Balaton Running Club;2;Félmaraton;21098;2:04:16;Balassagyarmat
+1002;Mészáros Zita;N;1963;6;Pannon Futók;1;10 km;10000;0:43:30;Veszprém
+2212;Juhász László;F;1960;1;Egyesület nélkül;1;10 km;10000;1:30:34;Szolnok
+1097;Oláh Zsolt;F;1992;1;Egyesület nélkül;3;Maraton;42195;3:11:50;Szolnok
+2401;Takács Attila;F;1982;4;Tisza Runners;1;10 km;10000;1:12:42;Vác
+1604;Lukács Tibor;F;1964;2;Dunakanyar Futóklub;2;Félmaraton;21098;1:46:55;Pécs
+2634;Orsós Richárd;F;1964;4;Tisza Runners;3;Maraton;42195;4:01:45;Balassagyarmat
+2024;Balázs Kinga;N;1999;5;Bükk Trail Team;1;10 km;10000;1:24:28;Vác
+2308;Molnár Tímea;N;1957;1;Egyesület nélkül;1;10 km;10000;0:43:39;Pécs
+2648;Molnár Andrea;N;1994;7;Balaton Running Club;1;10 km;10000;0:52:10;Gödöllő
+2310;Szűcs Bence;F;1957;1;Egyesület nélkül;2;Félmaraton;21098;3:16:37;Gödöllő
+1781;Papp Gergő;F;2005;6;Pannon Futók;2;Félmaraton;21098;2:39:47;Balassagyarmat
+2760;Török Zsófia;N;1972;1;Egyesület nélkül;1;10 km;10000;1:28:20;Eger
+1553;Rácz Tímea;N;2005;1;Egyesület nélkül;3;Maraton;42195;6:19:18;Szentendre
+2987;Lukács Katalin;N;1962;1;Egyesület nélkül;3;Maraton;42195;7:05:36;Gödöllő
+2489;Bíró Andrea;N;1996;4;Tisza Runners;3;Maraton;42195;3:11:46;Pécs
+1472;Oláh Edina;N;1964;1;Egyesület nélkül;1;10 km;10000;1:34:51;Szentendre
+1737;Horváth Boglárka;N;1983;3;Mátra SE;1;10 km;10000;0:49:13;Kecskemét
+2331;Kis István;F;1980;1;Egyesület nélkül;1;10 km;10000;0:42:28;Kecskemét
+2992;Lukács Dávid;F;1999;6;Pannon Futók;2;Félmaraton;21098;1:22:00;Kecskemét
+2799;Szilágyi Kristóf;F;2004;3;Mátra SE;1;10 km;10000;0:45:31;Budapest
+1498;Fodor Levente;F;1979;5;Bükk Trail Team;2;Félmaraton;21098;2:27:33;Eger
+2410;Kocsis László;F;1977;8;Alföldi Szél SE;2;Félmaraton;21098;3:05:29;Gödöllő
+1316;Tóth Gergő;F;1967;8;Alföldi Szél SE;1;10 km;10000;0:53:20;Szentendre
+2115;Oláh Petra;N;1994;1;Egyesület nélkül;3;Maraton;42195;4:34:21;Kecskemét
+1252;Papp Katalin;N;1995;1;Egyesület nélkül;1;10 km;10000;0:36:12;Miskolc
+1329;Szűcs Dóra;N;1999;6;Pannon Futók;1;10 km;10000;0:48:14;Gödöllő
+1092;Orsós Máté;F;1983;2;Dunakanyar Futóklub;2;Félmaraton;21098;1:58:24;Vác
+2581;Nagy Tímea;N;1997;1;Egyesület nélkül;1;10 km;10000;0:43:29;Gödöllő
+1126;Németh Norbert;F;1980;7;Balaton Running Club;2;Félmaraton;21098;1:55:45;Vác
+2060;László Milán;F;2003;7;Balaton Running Club;1;10 km;10000;0:45:59;Eger
+1685;Szalai Milán;F;1964;3;Mátra SE;1;10 km;10000;1:24:18;Budapest
+2168;Balogh Andrea;N;2001;5;Bükk Trail Team;2;Félmaraton;21098;2:04:50;Debrecen
+1483;Juhász Szilvia;N;1971;1;Egyesület nélkül;3;Maraton;42195;4:35:47;Szeged
+2591;Tóth Krisztián;F;1990;2;Dunakanyar Futóklub;3;Maraton;42195;5:10:57;Győr
+2659;Katona Lili;N;1972;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:31:19;Győr
+1842;Kocsis Zsolt;F;2003;6;Pannon Futók;3;Maraton;42195;3:34:52;Szolnok
+2219;Gál Máté;F;1982;4;Tisza Runners;1;10 km;10000;0:35:15;Debrecen
+2485;Simon Attila;F;1987;1;Egyesület nélkül;1;10 km;10000;0:34:27;Pécs
+1517;Varga Petra;N;1965;3;Mátra SE;2;Félmaraton;21098;3:03:51;Szentendre
+1370;Török András;F;2001;1;Egyesület nélkül;1;10 km;10000;1:19:33;Vác
+1008;Simon Nóra;N;1990;5;Bükk Trail Team;2;Félmaraton;21098;1:40:05;Pécs
+2188;Pintér Petra;N;1971;8;Alföldi Szél SE;1;10 km;10000;DNF;Eger
+1786;Kiss Máté;F;1991;6;Pannon Futók;2;Félmaraton;21098;2:20:02;Gödöllő
+2874;Kis Zoltán;F;2008;1;Egyesület nélkül;1;10 km;10000;0:59:11;Pécs
+2130;Balogh Krisztián;F;2005;6;Pannon Futók;1;10 km;10000;1:03:39;Győr
+1278;Horváth Máté;F;2002;1;Egyesület nélkül;1;10 km;10000;0:39:10;Gödöllő
+2441;Takács Andrea;N;1992;1;Egyesület nélkül;2;Félmaraton;21098;2:05:43;Vác
+1492;Balázs Réka;N;1987;5;Bükk Trail Team;2;Félmaraton;21098;2:51:48;Szentendre
+2061;Bíró Ferenc;F;2007;1;Egyesület nélkül;2;Félmaraton;21098;2:58:06;Győr
+2807;Király Edina;N;1973;6;Pannon Futók;2;Félmaraton;21098;1:58:25;Budapest
+1035;Kocsis Anna;N;1977;3;Mátra SE;1;10 km;10000;0:59:51;Szeged
+2198;Fodor Zita;N;1969;7;Balaton Running Club;3;Maraton;42195;3:22:50;Szeged
+2417;Bíró Viktor;F;1984;4;Tisza Runners;1;10 km;10000;1:17:19;Pécs
+2574;Mészáros Viktória;N;1988;3;Mátra SE;1;10 km;10000;DNF;Veszprém
+1798;Horváth Beáta;N;1987;3;Mátra SE;1;10 km;10000;1:04:02;Debrecen
+2607;Gál Eszter;N;1978;1;Egyesület nélkül;3;Maraton;42195;3:26:37;Szentendre
+1497;Molnár Dániel;F;1958;3;Mátra SE;3;Maraton;42195;4:57:57;Veszprém
+1203;Szalai Ildikó;N;1969;1;Egyesület nélkül;2;Félmaraton;21098;2:53:03;Szolnok
+2650;Oláh János;F;1992;7;Balaton Running Club;3;Maraton;42195;5:49:36;Gödöllő
+1967;Tóth Balázs;F;1966;1;Egyesület nélkül;1;10 km;10000;1:24:55;Szolnok
+2951;Balázs Máté;F;1962;3;Mátra SE;1;10 km;10000;1:29:46;Kecskemét
+2455;Balogh Petra;N;1988;3;Mátra SE;3;Maraton;42195;6:05:35;Szeged
+1015;Gulyás Lili;N;1964;1;Egyesület nélkül;3;Maraton;42195;4:55:47;Pécs
+2542;Lukács Zoltán;F;1970;4;Tisza Runners;2;Félmaraton;21098;2:27:58;Miskolc
+2385;Orsós András;F;1978;1;Egyesület nélkül;2;Félmaraton;21098;2:58:02;Balassagyarmat
+1806;Lakatos Kristóf;F;1997;7;Balaton Running Club;1;10 km;10000;0:49:01;Kecskemét
+1632;Gál Katalin;N;1999;6;Pannon Futók;1;10 km;10000;1:20:46;Kecskemét
+1566;Fehér Réka;N;2007;4;Tisza Runners;2;Félmaraton;21098;1:48:02;Eger
+1599;Magyar Bence;F;1998;6;Pannon Futók;2;Félmaraton;21098;1:34:01;Pécs
+1930;Kiss István;F;1962;4;Tisza Runners;1;10 km;10000;1:01:45;Gyöngyös
+1619;Lukács Péter;F;1969;9;Kékes Futóbarátok;2;Félmaraton;21098;1:38:57;Balassagyarmat
+1880;Orsós László;F;1976;8;Alföldi Szél SE;1;10 km;10000;1:06:12;Budapest
+1580;Szabó Nóra;N;1993;4;Tisza Runners;3;Maraton;42195;4:56:55;Szolnok
+2688;Simon Zoltán;F;1989;1;Egyesület nélkül;1;10 km;10000;0:45:40;Szentendre
+1330;Rácz Ádám;F;2001;1;Egyesület nélkül;1;10 km;10000;1:02:15;Szentendre
+2131;Kis Olivér;F;1980;1;Egyesület nélkül;2;Félmaraton;21098;2:08:00;Vác
+1019;Oláh István;F;1965;1;Egyesület nélkül;3;Maraton;42195;6:32:07;Veszprém
+1357;Takács Tamás;F;1986;4;Tisza Runners;1;10 km;10000;1:08:15;Budapest
+1001;Németh Szilvia;N;1985;7;Balaton Running Club;2;Félmaraton;21098;2:47:18;Győr
+1325;Fehér Ádám;F;1982;8;Alföldi Szél SE;3;Maraton;42195;5:29:07;Veszprém
+1790;Kocsis Nóra;N;1987;5;Bükk Trail Team;1;10 km;10000;0:38:22;Szentendre
+2397;Pintér Csilla;N;1999;1;Egyesület nélkül;1;10 km;10000;1:28:01;Eger
+2317;Szűcs Richárd;F;1974;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:06:32;Vác
+2452;Sipos Zsolt;F;1989;5;Bükk Trail Team;2;Félmaraton;21098;1:59:24;Pécs
+1940;Németh Zoltán;F;1959;5;Bükk Trail Team;2;Félmaraton;21098;3:13:36;Balassagyarmat
+1640;Fodor Judit;N;1977;9;Kékes Futóbarátok;3;Maraton;42195;DNF;Miskolc
+1235;Bíró Viktória;N;1964;1;Egyesület nélkül;1;10 km;10000;1:20:24;Gyöngyös
+2846;Kovács Edina;N;1962;2;Dunakanyar Futóklub;1;10 km;10000;0:40:20;Szentendre
+2989;Balázs Judit;N;1980;2;Dunakanyar Futóklub;3;Maraton;42195;5:07:23;Balassagyarmat
+1209;Németh Zita;N;1989;6;Pannon Futók;1;10 km;10000;1:09:46;Debrecen
+1803;Sipos Richárd;F;1981;1;Egyesület nélkül;2;Félmaraton;21098;1:54:45;Gödöllő
+2822;Szabó Gábor;F;1986;3;Mátra SE;3;Maraton;42195;2:57:21;Gödöllő
+2968;Pintér Márk;F;1998;1;Egyesület nélkül;3;Maraton;42195;5:42:21;Miskolc
+1945;Magyar Dániel;F;1989;8;Alföldi Szél SE;3;Maraton;42195;3:01:49;Szeged
+2751;Oláh Szilvia;N;1971;7;Balaton Running Club;1;10 km;10000;1:21:28;Gödöllő
+1813;Simon Tibor;F;2000;1;Egyesület nélkül;1;10 km;10000;0:38:43;Budapest
+2911;Szűcs Mónika;N;1989;7;Balaton Running Club;1;10 km;10000;0:52:51;Győr
+2692;Balogh Tímea;N;1990;1;Egyesület nélkül;2;Félmaraton;21098;1:53:02;Veszprém
+2079;Bíró Gergő;F;1974;5;Bükk Trail Team;2;Félmaraton;21098;1:39:02;Szentendre
+2426;Szalai Dóra;N;1981;4;Tisza Runners;1;10 km;10000;0:52:05;Győr
+2866;Lakatos Krisztián;F;2001;1;Egyesület nélkül;1;10 km;10000;0:34:45;Szentendre
+1258;Szilágyi Bence;F;1960;1;Egyesület nélkül;3;Maraton;42195;DNF;Debrecen
+1897;Szalai Gergő;F;2009;3;Mátra SE;1;10 km;10000;0:56:58;Miskolc
+1335;Balogh Attila;F;1966;5;Bükk Trail Team;1;10 km;10000;DNF;Eger
+2081;Simon Szilvia;N;2002;8;Alföldi Szél SE;1;10 km;10000;0:56:14;Gyöngyös
+2446;Szabó Boglárka;N;1956;2;Dunakanyar Futóklub;1;10 km;10000;0:49:38;Győr
+1009;Török Zsolt;F;1992;1;Egyesület nélkül;2;Félmaraton;21098;2:10:01;Veszprém
+2576;Szabó Csaba;F;1987;6;Pannon Futók;1;10 km;10000;0:57:08;Győr
+1273;Orsós Bence;F;1968;1;Egyesület nélkül;1;10 km;10000;1:08:39;Balassagyarmat
+2413;Sipos Vivien;N;1996;8;Alföldi Szél SE;1;10 km;10000;1:02:58;Gyöngyös
+1895;Kiss Vivien;N;2003;3;Mátra SE;1;10 km;10000;0:59:55;Kecskemét
+2491;Molnár Richárd;F;1959;6;Pannon Futók;1;10 km;10000;0:59:06;Debrecen
+2530;Nagy Sándor;F;2002;7;Balaton Running Club;1;10 km;10000;0:58:04;Szolnok
+2262;Fekete Fanni;N;1962;1;Egyesület nélkül;1;10 km;10000;0:57:02;Kecskemét
+2593;Lukács Emese;N;1993;6;Pannon Futók;1;10 km;10000;0:59:24;Szeged
+2877;Gál Kristóf;F;1983;2;Dunakanyar Futóklub;1;10 km;10000;1:04:47;Debrecen
+1816;Fodor Anna;N;1971;3;Mátra SE;1;10 km;10000;1:29:14;Gödöllő
+2194;Lukács Zsófia;N;1990;1;Egyesület nélkül;2;Félmaraton;21098;1:48:19;Miskolc
+2012;Balogh Gergő;F;1984;1;Egyesület nélkül;3;Maraton;42195;5:52:14;Gödöllő
+2991;Rácz Edina;N;1980;4;Tisza Runners;3;Maraton;42195;5:21:09;Gyöngyös
+1396;Orsós Tímea;N;2000;1;Egyesület nélkül;1;10 km;10000;1:00:39;Eger
+1450;Szilágyi Richárd;F;2003;1;Egyesület nélkül;1;10 km;10000;1:05:17;Budapest
+2244;Juhász Kinga;N;1977;3;Mátra SE;3;Maraton;42195;7:08:13;Miskolc
+1257;Orsós Beáta;N;1973;1;Egyesület nélkül;1;10 km;10000;1:02:43;Szeged
+1189;Farkas Márk;F;1983;1;Egyesület nélkül;1;10 km;10000;1:09:05;Budapest
+2437;Varga Tibor;F;1999;1;Egyesület nélkül;2;Félmaraton;21098;1:51:24;Debrecen
+2695;Gulyás Ildikó;N;1970;1;Egyesület nélkül;2;Félmaraton;21098;2:53:18;Eger
+1087;Orsós Vivien;N;1997;1;Egyesület nélkül;2;Félmaraton;21098;2:11:04;Veszprém
+1055;Tóth Tamás;F;1978;7;Balaton Running Club;1;10 km;10000;0:53:29;Kecskemét
+2937;Szilágyi László;F;2007;3;Mátra SE;2;Félmaraton;21098;2:28:56;Szeged
+2972;Farkas Katalin;N;1978;1;Egyesület nélkül;1;10 km;10000;0:38:48;Miskolc
+1634;Németh Csilla;N;1982;1;Egyesület nélkül;2;Félmaraton;21098;1:21:54;Kecskemét
+1163;Juhász Boglárka;N;1966;2;Dunakanyar Futóklub;3;Maraton;42195;7:32:23;Kecskemét
+1079;Takács Dóra;N;2006;4;Tisza Runners;2;Félmaraton;21098;1:55:14;Szentendre
+2208;Lukács Attila;F;1959;2;Dunakanyar Futóklub;1;10 km;10000;0:37:10;Budapest
+2260;Takács Judit;N;2006;3;Mátra SE;3;Maraton;42195;4:11:55;Szolnok
+1784;Molnár Flóra;N;1995;3;Mátra SE;2;Félmaraton;21098;3:07:29;Veszprém
+2106;Juhász Réka;N;1979;6;Pannon Futók;1;10 km;10000;1:28:13;Veszprém
+1723;Rácz Boglárka;N;2004;3;Mátra SE;2;Félmaraton;21098;2:02:30;Miskolc
+1893;Takács Levente;F;2006;8;Alföldi Szél SE;1;10 km;10000;1:03:15;Balassagyarmat
+1644;Orsós Gergő;F;1959;1;Egyesület nélkül;2;Félmaraton;21098;1:43:57;Győr
+2939;Rácz Rita;N;1976;4;Tisza Runners;1;10 km;10000;0:37:55;Pécs
+1210;Fekete Mónika;N;1972;4;Tisza Runners;2;Félmaraton;21098;1:30:25;Miskolc
+2297;Nagy Márk;F;1996;4;Tisza Runners;1;10 km;10000;1:01:14;Miskolc
+2845;Király Dóra;N;1989;8;Alföldi Szél SE;1;10 km;10000;0:39:27;Gyöngyös
+2583;Kovács Anna;N;1999;1;Egyesület nélkül;3;Maraton;42195;4:23:52;Gyöngyös
+1399;Lukács Szilvia;N;2008;6;Pannon Futók;3;Maraton;42195;4:53:20;Balassagyarmat
+1167;Gulyás Zoltán;F;2000;3;Mátra SE;2;Félmaraton;21098;1:15:25;Vác
+2347;Németh Gréta;N;2008;1;Egyesület nélkül;1;10 km;10000;0:48:17;Vác
+2236;Szabó Péter;F;1970;7;Balaton Running Club;3;Maraton;42195;5:20:24;Pécs
+1722;Pintér Katalin;N;1997;4;Tisza Runners;2;Félmaraton;21098;1:43:38;Győr
+2432;Kis Tamás;F;1965;3;Mátra SE;1;10 km;10000;0:50:22;Eger
+1714;Mészáros Olivér;F;1995;7;Balaton Running Club;2;Félmaraton;21098;2:33:59;Miskolc
+2350;Király Sándor;F;2003;1;Egyesület nélkül;1;10 km;10000;DNF;Eger
+1086;Szalai Katalin;N;1996;7;Balaton Running Club;1;10 km;10000;0:43:41;Eger
+1852;Magyar Orsolya;N;1966;8;Alföldi Szél SE;2;Félmaraton;21098;2:13:03;Szolnok
+1534;Rácz Fanni;N;1993;3;Mátra SE;1;10 km;10000;1:07:04;Gödöllő
+1073;Molnár Zsófia;N;1982;1;Egyesület nélkül;1;10 km;10000;1:25:24;Pécs
+1574;Török Márk;F;1969;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:42:18;Debrecen
+2129;Kis Orsolya;N;1971;5;Bükk Trail Team;1;10 km;10000;1:17:21;Miskolc
+2325;Simon Viktor;F;2002;3;Mátra SE;2;Félmaraton;21098;1:41:47;Eger
+1318;Király Dávid;F;2006;1;Egyesület nélkül;3;Maraton;42195;DNF;Pécs
+1773;Papp Beáta;N;2005;1;Egyesület nélkül;1;10 km;10000;1:23:43;Debrecen
+2791;Kovács Bence;F;1997;4;Tisza Runners;3;Maraton;42195;4:43:42;Debrecen
+1104;Balogh Beáta;N;1964;8;Alföldi Szél SE;3;Maraton;42195;3:53:59;Győr
+2756;Szalai Beáta;N;1976;6;Pannon Futók;1;10 km;10000;1:30:09;Szolnok
+1859;Török Kinga;N;1972;1;Egyesület nélkül;3;Maraton;42195;DNF;Vác
+2689;Varga Krisztián;F;1998;6;Pannon Futók;3;Maraton;42195;6:26:05;Balassagyarmat
+2160;Rácz Flóra;N;2001;1;Egyesület nélkül;1;10 km;10000;1:22:22;Pécs
+2747;Orsós Dániel;F;1974;1;Egyesület nélkül;1;10 km;10000;DNF;Győr
+1430;Takács Dániel;F;1973;1;Egyesület nélkül;2;Félmaraton;21098;1:46:52;Debrecen
+2934;Oláh Mónika;N;1984;7;Balaton Running Club;1;10 km;10000;1:15:29;Balassagyarmat
+2742;Molnár Milán;F;1964;7;Balaton Running Club;2;Félmaraton;21098;2:00:40;Veszprém
+1939;Gál Rita;N;1977;4;Tisza Runners;1;10 km;10000;1:20:35;Szeged
+2766;Katona Eszter;N;2007;3;Mátra SE;1;10 km;10000;0:50:15;Vác
+2661;Tóth Lilla;N;2008;8;Alföldi Szél SE;3;Maraton;42195;5:02:41;Szentendre
+1166;Balogh István;F;1978;1;Egyesület nélkül;3;Maraton;42195;5:54:46;Eger
+1159;Tóth Olivér;F;1991;3;Mátra SE;2;Félmaraton;21098;2:05:59;Balassagyarmat
+1056;Fodor László;F;1978;1;Egyesület nélkül;1;10 km;10000;1:04:21;Veszprém
+1821;Mészáros Zoltán;F;1963;1;Egyesület nélkül;3;Maraton;42195;4:52:21;Győr
+2409;Kis László;F;1955;1;Egyesület nélkül;1;10 km;10000;0:45:16;Miskolc
+2370;Pintér Zoltán;F;2009;1;Egyesület nélkül;1;10 km;10000;0:50:48;Debrecen
+2294;Horváth Zsolt;F;2000;1;Egyesület nélkül;2;Félmaraton;21098;2:21:56;Győr
+2098;Sipos Márk;F;1970;2;Dunakanyar Futóklub;1;10 km;10000;0:38:05;Szentendre
+1078;Balogh Zsófia;N;1990;2;Dunakanyar Futóklub;1;10 km;10000;1:16:53;Kecskemét
+2545;Török Flóra;N;1996;1;Egyesület nélkül;1;10 km;10000;0:51:52;Miskolc
+1271;Balázs Zsófia;N;1988;8;Alföldi Szél SE;2;Félmaraton;21098;2:44:16;Veszprém
+1221;Farkas Attila;F;2006;1;Egyesület nélkül;2;Félmaraton;21098;1:35:49;Budapest
+2637;Mészáros Emese;N;1968;8;Alföldi Szél SE;2;Félmaraton;21098;1:51:49;Eger
+1154;Farkas Emese;N;1960;1;Egyesület nélkül;2;Félmaraton;21098;2:15:21;Győr
+2668;Farkas Péter;F;1995;3;Mátra SE;2;Félmaraton;21098;2:39:44;Balassagyarmat
+2916;Simon Zsolt;F;1996;8;Alföldi Szél SE;2;Félmaraton;21098;1:57:50;Gyöngyös
+2550;Balogh Eszter;N;1980;1;Egyesület nélkül;1;10 km;10000;1:09:44;Szentendre
+2623;Gulyás Boglárka;N;1966;1;Egyesület nélkül;1;10 km;10000;1:05:53;Szolnok
+1972;Fodor Lili;N;2004;2;Dunakanyar Futóklub;3;Maraton;42195;3:44:54;Debrecen
+1763;Nagy Gábor;F;1982;1;Egyesület nélkül;1;10 km;10000;0:34:46;Szolnok
+1296;Fekete Lili;N;1968;1;Egyesület nélkül;1;10 km;10000;0:40:44;Pécs
+1811;Gál Attila;F;2005;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:31:13;Szeged
+1385;Németh Katalin;N;1957;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:03:18;Vác
+2486;Farkas Viktor;F;1985;6;Pannon Futók;2;Félmaraton;21098;2:22:34;Eger
+1910;Szalai Balázs;F;1967;1;Egyesület nélkül;3;Maraton;42195;3:12:22;Kecskemét
+1291;Szűcs Rita;N;1972;3;Mátra SE;2;Félmaraton;21098;DNF;Debrecen
+2512;Oláh Dávid;F;1986;2;Dunakanyar Futóklub;1;10 km;10000;0:43:39;Miskolc
+2714;Magyar Richárd;F;1996;3;Mátra SE;2;Félmaraton;21098;2:33:20;Győr
+2596;Rácz István;F;1994;6;Pannon Futók;2;Félmaraton;21098;2:25:02;Debrecen
+1879;Szabó Fanni;N;1985;1;Egyesület nélkül;1;10 km;10000;1:22:48;Győr
+1894;Nagy Bence;F;1998;1;Egyesület nélkül;2;Félmaraton;21098;1:16:19;Budapest
+2344;Kovács Petra;N;1989;4;Tisza Runners;1;10 km;10000;0:45:30;Veszprém
+2177;Balogh Viktória;N;1986;1;Egyesület nélkül;1;10 km;10000;1:02:22;Győr
+2653;Pintér Fanni;N;1986;1;Egyesület nélkül;3;Maraton;42195;5:17:41;Gyöngyös
+2713;Gulyás Richárd;F;1981;1;Egyesület nélkül;3;Maraton;42195;3:48:25;Debrecen
+1822;Gulyás Viktor;F;1977;1;Egyesület nélkül;1;10 km;10000;0:41:00;Gödöllő
+2285;Oláh Levente;F;1989;1;Egyesület nélkül;1;10 km;10000;0:52:57;Szolnok
+2778;Mészáros Mónika;N;1958;1;Egyesület nélkül;2;Félmaraton;21098;3:00:27;Gödöllő
+1036;Fekete Zita;N;1971;3;Mátra SE;1;10 km;10000;1:17:33;Szolnok
+1648;Király Tímea;N;1986;2;Dunakanyar Futóklub;3;Maraton;42195;2:48:29;Veszprém
+1448;Nagy Ádám;F;1988;7;Balaton Running Club;1;10 km;10000;0:37:00;Gödöllő
+2804;Pintér Zsolt;F;1957;5;Bükk Trail Team;2;Félmaraton;21098;1:24:45;Eger
+1412;Pintér István;F;2004;4;Tisza Runners;1;10 km;10000;1:13:07;Gödöllő
+1901;Pintér Boglárka;N;1996;1;Egyesület nélkül;2;Félmaraton;21098;2:13:36;Szentendre
+1525;Balázs Gábor;F;1999;1;Egyesület nélkül;3;Maraton;42195;5:54:54;Kecskemét
+2694;Tóth Dávid;F;1987;3;Mátra SE;1;10 km;10000;1:15:42;Gödöllő
+1858;Németh Kinga;N;2008;1;Egyesület nélkül;1;10 km;10000;0:43:33;Szentendre
+1245;Kiss Csilla;N;1982;1;Egyesület nélkül;2;Félmaraton;21098;2:01:00;Kecskemét
+1322;Lukács Máté;F;1972;5;Bükk Trail Team;2;Félmaraton;21098;2:27:00;Balassagyarmat
+2507;Simon Katalin;N;1990;1;Egyesület nélkül;3;Maraton;42195;3:44:37;Vác
+1246;Oláh Máté;F;1984;8;Alföldi Szél SE;1;10 km;10000;1:12:06;Eger
+1161;Takács Rita;N;1987;2;Dunakanyar Futóklub;3;Maraton;42195;5:33:28;Gödöllő
+2872;Fekete Attila;F;1990;5;Bükk Trail Team;1;10 km;10000;1:10:12;Szolnok
+1127;Juhász Olivér;F;1966;3;Mátra SE;2;Félmaraton;21098;3:08:38;Szentendre
+2337;Fodor Vivien;N;1999;1;Egyesület nélkül;1;10 km;10000;0:37:53;Vác
+1899;Király Máté;F;1968;6;Pannon Futók;1;10 km;10000;1:10:10;Szeged
+2580;Szalai Zoltán;F;1966;5;Bükk Trail Team;2;Félmaraton;21098;3:15:11;Pécs
+2777;Fodor Szilvia;N;1968;1;Egyesület nélkül;2;Félmaraton;21098;1:39:36;Balassagyarmat
+1222;Lukács Lilla;N;1957;7;Balaton Running Club;1;10 km;10000;1:25:29;Szeged
+2797;Pintér Gergő;F;2004;6;Pannon Futók;1;10 km;10000;0:45:05;Budapest
+2283;Gál Sándor;F;1968;1;Egyesület nélkül;3;Maraton;42195;3:15:54;Szolnok
+2817;Juhász Judit;N;1963;1;Egyesület nélkül;1;10 km;10000;1:16:13;Győr
+1334;Szalai Kristóf;F;1974;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:28:13;Kecskemét
+1026;Molnár Gergő;F;2004;5;Bükk Trail Team;1;10 km;10000;1:13:21;Gödöllő
+2497;Gál Tímea;N;1998;3;Mátra SE;2;Félmaraton;21098;2:09:00;Gyöngyös
+2033;Juhász Zita;N;2005;7;Balaton Running Club;1;10 km;10000;0:50:16;Szentendre
+2850;Rácz Viktória;N;1971;2;Dunakanyar Futóklub;1;10 km;10000;1:31:54;Debrecen
+2667;Juhász Mónika;N;1970;3;Mátra SE;2;Félmaraton;21098;3:11:34;Vác
+2326;Farkas Eszter;N;1975;7;Balaton Running Club;2;Félmaraton;21098;2:09:21;Szentendre
+2814;Fekete Kristóf;F;1975;3;Mátra SE;1;10 km;10000;0:56:44;Szentendre
+1065;Gulyás Kinga;N;1993;5;Bükk Trail Team;1;10 km;10000;0:58:37;Gyöngyös
+2171;Nagy Mónika;N;1967;2;Dunakanyar Futóklub;1;10 km;10000;0:51:00;Szeged
+1758;Kovács Dániel;F;1967;1;Egyesület nélkül;1;10 km;10000;1:24:24;Miskolc
+2187;Kovács Fanni;N;1971;4;Tisza Runners;1;10 km;10000;0:46:07;Gödöllő
+1171;László Tamás;F;1978;3;Mátra SE;1;10 km;10000;0:42:17;Szolnok
+2382;Török Orsolya;N;1982;1;Egyesület nélkül;2;Félmaraton;21098;2:42:45;Veszprém
+2909;Katona Gergő;F;1999;9;Kékes Futóbarátok;1;10 km;10000;0:41:33;Pécs
+2145;Szabó Zsolt;F;1983;1;Egyesület nélkül;2;Félmaraton;21098;2:57:41;Vác
+1250;Gál Csilla;N;1957;1;Egyesület nélkül;1;10 km;10000;1:32:32;Balassagyarmat
+2436;Török Lili;N;1972;8;Alföldi Szél SE;3;Maraton;42195;5:16:45;Eger
+1535;Farkas Ádám;F;1996;4;Tisza Runners;1;10 km;10000;0:42:36;Szolnok
+2826;Szabó Levente;F;1967;5;Bükk Trail Team;1;10 km;10000;0:49:55;Gödöllő
+1260;Juhász Tibor;F;2001;1;Egyesület nélkül;2;Félmaraton;21098;2:34:01;Gödöllő
+2793;Gál László;F;1984;8;Alföldi Szél SE;3;Maraton;42195;3:57:35;Veszprém
+2832;Kovács Márk;F;1975;1;Egyesület nélkül;1;10 km;10000;0:57:45;Balassagyarmat
+1041;Sipos Tamás;F;1997;4;Tisza Runners;1;10 km;10000;0:40:31;Kecskemét
+1675;Bíró Lili;N;1995;7;Balaton Running Club;3;Maraton;42195;DNF;Szeged
+1397;Szabó Lilla;N;1959;1;Egyesület nélkül;1;10 km;10000;1:35:14;Eger
+2894;Szűcs Viktória;N;1982;5;Bükk Trail Team;1;10 km;10000;1:28:51;Szolnok
+2615;Rácz Szilvia;N;1972;5;Bükk Trail Team;2;Félmaraton;21098;2:39:42;Győr
+2123;Török Anna;N;1994;1;Egyesület nélkül;1;10 km;10000;0:55:45;Szeged
+2082;Katona Emese;N;1957;1;Egyesület nélkül;1;10 km;10000;1:30:14;Gödöllő
+1267;Szabó András;F;1965;1;Egyesület nélkül;3;Maraton;42195;6:06:35;Eger
+2730;Nagy Hanna;N;1999;1;Egyesület nélkül;1;10 km;10000;1:27:08;Kecskemét
+2320;Szűcs István;F;1968;2;Dunakanyar Futóklub;2;Félmaraton;21098;1:41:31;Szeged
+1058;Kis János;F;1996;3;Mátra SE;1;10 km;10000;DNF;Szolnok
+1676;Horváth Lili;N;1989;8;Alföldi Szél SE;2;Félmaraton;21098;3:07:35;Vác
+2477;Szilágyi Csilla;N;1975;1;Egyesület nélkül;3;Maraton;42195;6:10:49;Debrecen
+1422;Lukács Levente;F;1957;6;Pannon Futók;1;10 km;10000;1:00:15;Debrecen
+1791;Tóth Dániel;F;1988;3;Mátra SE;1;10 km;10000;1:16:18;Pécs
+1004;Szalai Gréta;N;2006;5;Bükk Trail Team;1;10 km;10000;1:00:17;Eger
+2319;Kis Dániel;F;1981;1;Egyesület nélkül;2;Félmaraton;21098;2:11:07;Vác
+2228;Fodor Gergő;F;1982;6;Pannon Futók;3;Maraton;42195;3:13:45;Debrecen
+1045;Németh Dávid;F;1989;6;Pannon Futók;2;Félmaraton;21098;2:49:49;Debrecen
+1835;László András;F;1967;1;Egyesület nélkül;3;Maraton;42195;6:36:04;Debrecen
+2852;Király Márk;F;1993;1;Egyesület nélkül;1;10 km;10000;1:01:26;Győr
+2611;Király Réka;N;1980;2;Dunakanyar Futóklub;1;10 km;10000;1:20:29;Vác
+2513;Orsós Eszter;N;1957;7;Balaton Running Club;1;10 km;10000;1:32:27;Veszprém
+2499;Magyar Mónika;N;1965;7;Balaton Running Club;2;Félmaraton;21098;3:21:17;Vác
+2865;Kiss Gréta;N;1986;8;Alföldi Szél SE;2;Félmaraton;21098;2:07:31;Győr
+1712;Balázs Fanni;N;1976;1;Egyesület nélkül;2;Félmaraton;21098;2:56:37;Szolnok
+2711;Magyar Gábor;F;1966;2;Dunakanyar Futóklub;2;Félmaraton;21098;1:36:06;Szolnok
+1922;Szalai Máté;F;1982;8;Alföldi Szél SE;1;10 km;10000;0:47:46;Budapest
+1717;Kiss Emese;N;1978;5;Bükk Trail Team;2;Félmaraton;21098;2:21:49;Vác
+1118;Sipos Nóra;N;1968;4;Tisza Runners;3;Maraton;42195;4:35:56;Gyöngyös
+2735;Simon Dóra;N;1960;1;Egyesület nélkül;2;Félmaraton;21098;3:18:08;Szeged
+1077;Szalai Richárd;F;1973;1;Egyesület nélkül;1;10 km;10000;1:21:52;Veszprém
+2745;Gál Zsolt;F;1992;5;Bükk Trail Team;2;Félmaraton;21098;1:36:58;Szolnok
+2139;Fekete Lilla;N;1973;6;Pannon Futók;2;Félmaraton;21098;3:18:08;Győr
+1573;Kis Zita;N;1969;3;Mátra SE;3;Maraton;42195;5:30:09;Veszprém
+2498;Tóth Tímea;N;1984;7;Balaton Running Club;3;Maraton;42195;3:21:42;Győr
+1600;Pintér Kinga;N;1997;1;Egyesület nélkül;1;10 km;10000;1:23:22;Győr
+1063;Mészáros Csaba;F;1991;1;Egyesület nélkül;1;10 km;10000;0:48:03;Szolnok
+1855;Lakatos Bence;F;1967;1;Egyesület nélkül;1;10 km;10000;1:23:47;Debrecen
+1470;Magyar Hanna;N;1985;3;Mátra SE;3;Maraton;42195;3:34:28;Kecskemét
+1847;Kocsis Balázs;F;1996;1;Egyesület nélkül;1;10 km;10000;0:46:27;Debrecen
+1626;Gulyás Attila;F;1992;1;Egyesület nélkül;1;10 km;10000;1:00:23;Szentendre
+2758;László Orsolya;N;2002;5;Bükk Trail Team;2;Félmaraton;21098;1:22:00;Miskolc
+2881;Király Rita;N;1998;1;Egyesület nélkül;1;10 km;10000;DNF;Gödöllő
+2152;Gál Dóra;N;2003;1;Egyesület nélkül;3;Maraton;42195;5:15:16;Szentendre
+1383;Simon Kinga;N;2000;1;Egyesület nélkül;3;Maraton;42195;6:32:02;Gödöllő
+1530;Szilágyi Tamás;F;2000;1;Egyesület nélkül;3;Maraton;42195;5:40:27;Szolnok
+2444;Balázs Gergő;F;1972;8;Alföldi Szél SE;2;Félmaraton;21098;2:41:01;Veszprém
+1785;Lakatos Zsolt;F;1960;6;Pannon Futók;3;Maraton;42195;5:22:08;Szolnok
+2802;Rácz Tamás;F;1965;1;Egyesület nélkül;2;Félmaraton;21098;2:10:38;Eger
+2021;Balázs Vivien;N;1988;3;Mátra SE;3;Maraton;42195;5:54:42;Gyöngyös
+2586;Fehér Gréta;N;1961;5;Bükk Trail Team;3;Maraton;42195;7:00:58;Eger
+2604;Oláh Dóra;N;2002;1;Egyesület nélkül;3;Maraton;42195;3:51:47;Eger
+2047;Mészáros Dóra;N;2006;4;Tisza Runners;3;Maraton;42195;DNF;Debrecen
+1354;Tóth Viktor;F;1963;1;Egyesület nélkül;1;10 km;10000;1:08:33;Budapest
+2383;Gál Emese;N;1993;8;Alföldi Szél SE;1;10 km;10000;0:50:39;Kecskemét
+1805;Fekete Emese;N;1970;5;Bükk Trail Team;2;Félmaraton;21098;3:09:12;Szentendre
+2562;Varga Kinga;N;1976;1;Egyesület nélkül;3;Maraton;42195;7:14:14;Gyöngyös
+2249;Gál Richárd;F;2003;1;Egyesület nélkül;1;10 km;10000;1:06:43;Szentendre
+2357;Simon Hanna;N;1996;1;Egyesület nélkül;1;10 km;10000;0:46:57;Debrecen
+1237;Molnár Csaba;F;2000;1;Egyesület nélkül;2;Félmaraton;21098;2:51:23;Győr
+2905;Kocsis Levente;F;1962;1;Egyesület nélkül;1;10 km;10000;0:42:13;Vác
+2048;Szalai Csilla;N;1993;5;Bükk Trail Team;3;Maraton;42195;3:46:45;Miskolc
+2887;Balogh Levente;F;1956;4;Tisza Runners;2;Félmaraton;21098;2:05:43;Balassagyarmat
+2479;Pintér Norbert;F;1983;4;Tisza Runners;2;Félmaraton;21098;2:24:57;Veszprém
+2203;Kocsis Tímea;N;1996;6;Pannon Futók;2;Félmaraton;21098;2:30:40;Veszprém
+1920;Horváth Viktória;N;1973;7;Balaton Running Club;1;10 km;10000;1:04:34;Szentendre
+2953;Lakatos Flóra;N;1991;6;Pannon Futók;3;Maraton;42195;3:34:33;Gyöngyös
+1611;Mészáros László;F;2008;6;Pannon Futók;1;10 km;10000;0:38:06;Gödöllő
+1596;Balázs Beáta;N;1999;1;Egyesület nélkül;3;Maraton;42195;4:20:54;Szeged
+2248;Pintér Levente;F;2003;3;Mátra SE;1;10 km;10000;1:07:04;Gödöllő
+2761;Gulyás Ferenc;F;1977;7;Balaton Running Club;3;Maraton;42195;5:14:46;Pécs
+1027;Balogh Vivien;N;2001;1;Egyesület nélkül;2;Félmaraton;21098;DNF;Budapest
+1020;Szilágyi Réka;N;2009;1;Egyesület nélkül;1;10 km;10000;0:38:15;Pécs
+2813;László Kristóf;F;2002;4;Tisza Runners;3;Maraton;42195;3:27:23;Gödöllő
+2864;Juhász Lili;N;1981;6;Pannon Futók;1;10 km;10000;1:14:42;Gyöngyös
+2501;Kovács Milán;F;1995;5;Bükk Trail Team;2;Félmaraton;21098;1:26:08;Szolnok
+2049;Gulyás Petra;N;1965;6;Pannon Futók;2;Félmaraton;21098;3:31:18;Kecskemét
+2240;Varga Péter;F;1975;1;Egyesület nélkül;1;10 km;10000;1:16:29;Budapest
+1387;Kiss Andrea;N;1998;2;Dunakanyar Futóklub;3;Maraton;42195;5:34:12;Balassagyarmat
+2733;Horváth Hanna;N;1956;4;Tisza Runners;3;Maraton;42195;7:18:39;Szeged
+2039;László Richárd;F;1955;4;Tisza Runners;2;Félmaraton;21098;2:13:21;Szentendre
+1950;László Katalin;N;1992;2;Dunakanyar Futóklub;3;Maraton;42195;5:56:18;Gyöngyös
+2434;László Judit;N;1970;2;Dunakanyar Futóklub;3;Maraton;42195;3:15:31;Pécs
+1134;Katona János;F;1982;2;Dunakanyar Futóklub;1;10 km;10000;0:56:19;Kecskemét
+1261;Pintér Csaba;F;1967;1;Egyesület nélkül;1;10 km;10000;1:13:40;Pécs
+2068;Lukács Gergő;F;1980;1;Egyesület nélkül;1;10 km;10000;0:47:23;Balassagyarmat
+2113;Szilágyi Máté;F;1972;1;Egyesület nélkül;1;10 km;10000;0:39:00;Miskolc
+2415;Sipos Viktor;F;1988;1;Egyesület nélkül;2;Félmaraton;21098;1:19:12;Szeged
+1062;Magyar Attila;F;2001;5;Bükk Trail Team;3;Maraton;42195;5:59:16;Szolnok
+1637;Kocsis Sándor;F;1968;1;Egyesület nélkül;1;10 km;10000;0:43:23;Szentendre
+1757;Szilágyi Beáta;N;2002;4;Tisza Runners;1;10 km;10000;1:19:56;Budapest
+2193;Kocsis Ferenc;F;1976;5;Bükk Trail Team;2;Félmaraton;21098;1:28:49;Szolnok
+1696;Gál Lili;N;1960;1;Egyesület nélkül;3;Maraton;42195;4:25:27;Szeged
+2873;Rácz Krisztián;F;1986;1;Egyesület nélkül;1;10 km;10000;0:35:07;Szentendre
+2595;Kis Dóra;N;1988;5;Bükk Trail Team;1;10 km;10000;1:19:01;Szentendre
+1581;Sipos Boglárka;N;2006;1;Egyesület nélkül;3;Maraton;42195;6:16:37;Eger
+1301;Balázs Boglárka;N;2003;7;Balaton Running Club;1;10 km;10000;0:49:10;Kecskemét
+1633;Szabó Zoltán;F;2009;3;Mátra SE;2;Félmaraton;21098;2:51:07;Balassagyarmat
+2430;Sipos Edina;N;1956;1;Egyesület nélkül;1;10 km;10000;0:51:22;Veszprém
+2351;Horváth Zita;N;1985;6;Pannon Futók;2;Félmaraton;21098;2:38:50;Szentendre
+1955;Bíró Norbert;F;2001;1;Egyesület nélkül;3;Maraton;42195;6:27:43;Szeged
+1732;Fodor Emese;N;1957;6;Pannon Futók;1;10 km;10000;0:46:56;Gödöllő
+2651;Varga Anna;N;1986;1;Egyesület nélkül;1;10 km;10000;1:21:08;Szeged
+2420;Balázs Hanna;N;1966;6;Pannon Futók;1;10 km;10000;0:46:01;Győr
+1521;Gulyás Orsolya;N;1964;1;Egyesület nélkül;3;Maraton;42195;5:05:26;Balassagyarmat
+2142;Magyar Tibor;F;1960;7;Balaton Running Club;2;Félmaraton;21098;1:25:24;Eger
+1770;Szabó Norbert;F;1994;1;Egyesület nélkül;2;Félmaraton;21098;2:04:55;Veszprém
+2571;Kocsis Fanni;N;1973;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:29:12;Kecskemét
+2221;Papp Richárd;F;1968;3;Mátra SE;2;Félmaraton;21098;2:06:15;Szolnok
+1394;Kocsis Olivér;F;1998;1;Egyesület nélkül;1;10 km;10000;0:41:06;Balassagyarmat
+2856;Pintér Dávid;F;1972;4;Tisza Runners;1;10 km;10000;DNF;Eger
+1512;Takács István;F;1986;1;Egyesület nélkül;3;Maraton;42195;6:27:18;Pécs
+1603;Simon Olivér;F;1991;4;Tisza Runners;2;Félmaraton;21098;2:50:46;Balassagyarmat
+1120;Fehér Viktor;F;1975;7;Balaton Running Club;1;10 km;10000;1:04:34;Gödöllő
+1276;Török Csilla;N;1983;2;Dunakanyar Futóklub;1;10 km;10000;1:21:51;Szeged
+1849;Oláh Kristóf;F;1975;1;Egyesület nélkül;2;Félmaraton;21098;1:31:21;Balassagyarmat
+1400;Kovács Gergő;F;1980;3;Mátra SE;1;10 km;10000;0:51:42;Szentendre
+2287;Farkas Gergő;F;1982;8;Alföldi Szél SE;1;10 km;10000;0:48:28;Miskolc
+1074;Katona Kristóf;F;1955;5;Bükk Trail Team;2;Félmaraton;21098;3:22:18;Gyöngyös
+1531;Lukács Fanni;N;1992;1;Egyesület nélkül;2;Félmaraton;21098;2:29:51;Pécs
+2825;Bíró Beáta;N;2000;3;Mátra SE;1;10 km;10000;1:25:51;Eger
+2896;Szilágyi Krisztián;F;1968;1;Egyesület nélkül;3;Maraton;42195;6:48:01;Budapest
+2006;Farkas Boglárka;N;1955;1;Egyesület nélkül;3;Maraton;42195;3:55:19;Győr
+2579;Fekete Gréta;N;1966;1;Egyesület nélkül;1;10 km;10000;1:00:54;Miskolc
+2367;Juhász Dávid;F;1979;2;Dunakanyar Futóklub;1;10 km;10000;0:49:36;Szolnok
+1871;Tóth Gábor;F;1959;6;Pannon Futók;1;10 km;10000;1:05:13;Gödöllő
+2050;Szalai Tamás;F;1973;1;Egyesület nélkül;2;Félmaraton;21098;1:18:20;Eger
+2948;Horváth Viktor;F;1990;1;Egyesület nélkül;2;Félmaraton;21098;2:46:36;Győr
+1481;Papp Petra;N;1995;1;Egyesület nélkül;1;10 km;10000;0:57:55;Pécs
+1764;Németh Gergő;F;1963;1;Egyesület nélkül;3;Maraton;42195;4:27:02;Szentendre
+1820;Gál Zsófia;N;1989;8;Alföldi Szél SE;1;10 km;10000;0:52:15;Kecskemét
+2161;Horváth Attila;F;2000;1;Egyesület nélkül;2;Félmaraton;21098;2:12:55;Győr
+2101;Lakatos Edina;N;1989;1;Egyesület nélkül;1;10 km;10000;1:10:03;Balassagyarmat
+1437;Bíró Réka;N;1955;5;Bükk Trail Team;2;Félmaraton;21098;2:38:02;Miskolc
+2002;Simon János;F;1976;1;Egyesület nélkül;3;Maraton;42195;2:43:03;Balassagyarmat
+1916;Lakatos Gábor;F;2004;6;Pannon Futók;1;10 km;10000;0:50:01;Szolnok
+1505;Orsós Attila;F;2003;1;Egyesület nélkül;3;Maraton;42195;6:27:36;Debrecen
+1269;Németh Beáta;N;1960;1;Egyesület nélkül;3;Maraton;42195;4:39:40;Debrecen
+1903;Pintér Richárd;F;1987;7;Balaton Running Club;1;10 km;10000;0:52:43;Szentendre
+1248;Nagy Ferenc;F;1961;7;Balaton Running Club;1;10 km;10000;1:26:29;Debrecen
+1882;Szűcs Olivér;F;1983;1;Egyesület nélkül;1;10 km;10000;DNF;Veszprém
+2456;Lakatos Zita;N;1994;3;Mátra SE;2;Félmaraton;21098;1:40:40;Debrecen
+2676;Horváth Vivien;N;1992;7;Balaton Running Club;2;Félmaraton;21098;1:40:10;Budapest
+1478;Molnár Péter;F;1980;1;Egyesület nélkül;2;Félmaraton;21098;1:53:07;Veszprém
+1084;Farkas Viktória;N;1998;3;Mátra SE;2;Félmaraton;21098;1:22:12;Budapest
+1061;Török Katalin;N;1986;6;Pannon Futók;3;Maraton;42195;6:43:56;Miskolc
+1548;László Petra;N;1970;1;Egyesület nélkül;2;Félmaraton;21098;1:28:43;Szentendre
+2090;Katona István;F;2003;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:13:48;Debrecen
+1577;Juhász Sándor;F;1977;1;Egyesület nélkül;3;Maraton;42195;DNF;Miskolc
+2558;Szilágyi Vivien;N;1979;8;Alföldi Szél SE;1;10 km;10000;1:26:45;Szentendre
+2176;Balázs Krisztián;F;1962;1;Egyesület nélkül;2;Félmaraton;21098;2:55:17;Szeged
+2502;Juhász Katalin;N;1976;5;Bükk Trail Team;1;10 km;10000;1:25:35;Gödöllő
+2529;Orsós Tibor;F;1974;1;Egyesület nélkül;1;10 km;10000;0:36:00;Vác
+1365;László Kinga;N;1960;6;Pannon Futók;1;10 km;10000;0:54:36;Győr
+1543;Fehér András;F;1959;7;Balaton Running Club;2;Félmaraton;21098;1:58:26;Gyöngyös
+2158;Kiss Lili;N;1988;5;Bükk Trail Team;1;10 km;10000;1:17:30;Vác
+1797;Katona Norbert;F;1987;1;Egyesület nélkül;2;Félmaraton;21098;1:23:56;Eger
+2726;Fehér Zita;N;2007;3;Mátra SE;1;10 km;10000;1:10:33;Szentendre
+2088;Balázs Péter;F;1987;1;Egyesület nélkül;1;10 km;10000;0:41:36;Budapest
+1066;Szabó Márk;F;1984;1;Egyesület nélkül;1;10 km;10000;0:56:54;Szeged
+1665;Nagy Fanni;N;1981;1;Egyesület nélkül;2;Félmaraton;21098;DNF;Debrecen
+1761;Lukács István;F;2002;1;Egyesület nélkül;3;Maraton;42195;3:17:57;Pécs
+1233;Rácz Ildikó;N;1986;6;Pannon Futók;1;10 km;10000;1:21:25;Gyöngyös
+2462;Fodor Tamás;F;1965;5;Bükk Trail Team;2;Félmaraton;21098;1:44:50;Győr
+2849;Szűcs Kristóf;F;1959;1;Egyesület nélkül;1;10 km;10000;0:43:34;Miskolc
+2109;Tóth Beáta;N;1961;3;Mátra SE;1;10 km;10000;0:40:38;Eger
+2390;Balázs Gréta;N;1993;2;Dunakanyar Futóklub;1;10 km;10000;1:17:55;Gyöngyös
+2394;Takács Vivien;N;1993;3;Mátra SE;3;Maraton;42195;5:00:42;Győr
+1048;Fekete Orsolya;N;1973;1;Egyesület nélkül;2;Félmaraton;21098;2:28:23;Győr
+2322;Katona Edina;N;1968;1;Egyesület nélkül;1;10 km;10000;DNF;Eger
+1883;Tóth Hanna;N;1967;5;Bükk Trail Team;3;Maraton;42195;DNF;Pécs
+2890;Magyar Rita;N;1975;7;Balaton Running Club;2;Félmaraton;21098;2:05:55;Szentendre
+2041;Kis Lili;N;1960;4;Tisza Runners;3;Maraton;42195;5:15:48;Eger
+2184;Lukács Ferenc;F;2004;3;Mátra SE;3;Maraton;42195;3:50:26;Vác
+1962;Király Emese;N;2003;8;Alföldi Szél SE;1;10 km;10000;1:11:58;Gyöngyös
+2371;Kocsis Kristóf;F;1984;5;Bükk Trail Team;3;Maraton;42195;5:32:32;Szeged
+2644;Török Viktória;N;1957;3;Mátra SE;2;Félmaraton;21098;1:58:15;Miskolc
+2662;Szilágyi Gréta;N;1960;1;Egyesület nélkül;3;Maraton;42195;7:32:49;Gödöllő
+2380;Molnár István;F;1963;1;Egyesület nélkül;1;10 km;10000;0:42:32;Gödöllő
+2358;Lukács Dániel;F;1999;1;Egyesület nélkül;2;Félmaraton;21098;1:58:05;Debrecen
+1241;Fehér Dániel;F;2000;1;Egyesület nélkül;2;Félmaraton;21098;1:35:14;Gyöngyös
+2610;Horváth Andrea;N;1957;2;Dunakanyar Futóklub;1;10 km;10000;0:51:32;Eger
+1890;Juhász Tímea;N;2001;7;Balaton Running Club;1;10 km;10000;0:45:04;Vác
+2159;Lakatos János;F;1966;8;Alföldi Szél SE;1;10 km;10000;1:04:11;Vác
+2279;Takács Boglárka;N;1982;1;Egyesület nélkül;1;10 km;10000;0:48:59;Miskolc
+1303;Kis Krisztián;F;1997;5;Bükk Trail Team;2;Félmaraton;21098;1:18:37;Miskolc
+1705;Bíró Attila;F;1978;3;Mátra SE;1;10 km;10000;1:13:36;Veszprém
+2632;Németh Márk;F;2005;8;Alföldi Szél SE;1;10 km;10000;0:35:02;Pécs
+1368;Király Vivien;N;2009;3;Mátra SE;1;10 km;10000;0:42:35;Debrecen
+1447;Fekete Eszter;N;2004;1;Egyesület nélkül;1;10 km;10000;0:55:15;Győr
+2842;Orsós Anna;N;1998;1;Egyesület nélkül;2;Félmaraton;21098;2:00:12;Szolnok
+1502;Király Ildikó;N;1998;1;Egyesület nélkül;2;Félmaraton;21098;3:15:56;Győr
+2316;Oláh Sándor;F;1971;6;Pannon Futók;3;Maraton;42195;4:59:37;Szentendre
+1891;Takács Ildikó;N;1963;1;Egyesület nélkül;2;Félmaraton;21098;2:32:44;Gyöngyös
+2149;Mészáros Balázs;F;1956;6;Pannon Futók;1;10 km;10000;0:48:58;Gödöllő
+2312;Balogh Ferenc;F;1964;2;Dunakanyar Futóklub;1;10 km;10000;1:00:20;Budapest
+1420;Takács Péter;F;2008;8;Alföldi Szél SE;2;Félmaraton;21098;1:39:27;Vác
+1949;Lukács Lili;N;2000;3;Mátra SE;2;Félmaraton;21098;3:05:04;Budapest
+1487;Kocsis Norbert;F;1985;3;Mátra SE;2;Félmaraton;21098;2:17:21;Szeged
+2164;Nagy Petra;N;2001;3;Mátra SE;1;10 km;10000;1:20:24;Vác
+1783;Molnár Fanni;N;1963;5;Bükk Trail Team;1;10 km;10000;0:43:07;Miskolc
+1571;Mészáros Kinga;N;1964;8;Alföldi Szél SE;2;Félmaraton;21098;DNF;Balassagyarmat
+2927;Oláh Boglárka;N;2006;1;Egyesület nélkül;1;10 km;10000;1:26:50;Budapest
+1862;Gulyás Fanni;N;1971;8;Alföldi Szél SE;2;Félmaraton;21098;2:54:16;Veszprém
+2906;Gulyás Dóra;N;1997;1;Egyesület nélkül;2;Félmaraton;21098;2:59:21;Kecskemét
+2703;Kocsis Gergő;F;1999;6;Pannon Futók;1;10 km;10000;1:10:28;Szentendre
+1081;Takács Kristóf;F;1981;5;Bükk Trail Team;2;Félmaraton;21098;1:33:33;Gyöngyös
+2891;Lakatos Katalin;N;1976;1;Egyesület nélkül;2;Félmaraton;21098;3:00:28;Gödöllő
+1320;Lakatos Emese;N;2007;3;Mátra SE;1;10 km;10000;1:17:14;Vác
+2291;Orsós Mónika;N;1975;5;Bükk Trail Team;1;10 km;10000;1:13:56;Gödöllő
+2073;Pintér Lilla;N;1962;6;Pannon Futók;1;10 km;10000;1:34:35;Szolnok
+1687;Pintér Krisztián;F;1961;2;Dunakanyar Futóklub;1;10 km;10000;1:09:58;Győr
+2928;Takács Ádám;F;1976;7;Balaton Running Club;2;Félmaraton;21098;1:44:00;Szolnok
+1552;Szalai János;F;1999;6;Pannon Futók;1;10 km;10000;0:41:11;Győr
+1935;Tóth Péter;F;1981;1;Egyesület nélkül;2;Félmaraton;21098;1:16:31;Balassagyarmat
+2765;Gál Bence;F;1963;7;Balaton Running Club;2;Félmaraton;21098;1:42:04;Eger
+1326;Simon István;F;1990;1;Egyesület nélkül;2;Félmaraton;21098;2:18:01;Balassagyarmat
+2919;Szűcs Fanni;N;2008;1;Egyesület nélkül;1;10 km;10000;0:51:30;Szentendre
+2584;Lukács Csaba;F;1999;5;Bükk Trail Team;2;Félmaraton;21098;2:19:53;Gödöllő
+2511;Pintér Bence;F;1996;4;Tisza Runners;3;Maraton;42195;5:41:42;Szolnok
+2080;Nagy Kristóf;F;1978;6;Pannon Futók;1;10 km;10000;1:03:00;Eger
+2590;Orsós Zsófia;N;1996;6;Pannon Futók;1;10 km;10000;1:00:25;Gyöngyös
+1730;Tóth János;F;1955;6;Pannon Futók;3;Maraton;42195;4:12:33;Balassagyarmat
+2272;Takács Flóra;N;1996;1;Egyesület nélkül;1;10 km;10000;0:36:34;Budapest
+2493;László Hanna;N;2000;1;Egyesület nélkül;3;Maraton;42195;6:27:19;Balassagyarmat
+1775;Simon Ildikó;N;2009;8;Alföldi Szél SE;1;10 km;10000;1:26:14;Balassagyarmat
+2307;Szalai László;F;1984;8;Alföldi Szél SE;1;10 km;10000;0:54:04;Szolnok
+2656;Szűcs Gréta;N;1956;1;Egyesület nélkül;3;Maraton;42195;3:55:49;Kecskemét
+1426;Bíró Fanni;N;1959;1;Egyesület nélkül;1;10 km;10000;0:55:59;Budapest
+1771;Molnár Judit;N;1988;5;Bükk Trail Team;1;10 km;10000;0:39:55;Gyöngyös
+1748;Balogh Péter;F;1972;2;Dunakanyar Futóklub;1;10 km;10000;1:23:38;Balassagyarmat
+2860;Németh András;F;1977;1;Egyesület nélkül;1;10 km;10000;1:09:39;Miskolc
+2038;Molnár Lili;N;1995;1;Egyesület nélkül;1;10 km;10000;1:29:04;Szeged
+1597;Szalai Tibor;F;1969;1;Egyesület nélkül;2;Félmaraton;21098;2:05:29;Szentendre
+2001;László Márk;F;1983;1;Egyesület nélkül;3;Maraton;42195;3:55:34;Szeged
+1627;Kocsis Milán;F;1972;1;Egyesület nélkül;1;10 km;10000;0:47:36;Pécs
+1710;Szabó Bence;F;2009;2;Dunakanyar Futóklub;2;Félmaraton;21098;1:19:37;Vác
+1376;Balázs Attila;F;2000;1;Egyesület nélkül;2;Félmaraton;21098;2:08:38;Győr
+2925;Orsós István;F;2008;3;Mátra SE;1;10 km;10000;0:47:21;Miskolc
+1904;Juhász Csaba;F;2002;1;Egyesület nélkül;3;Maraton;42195;5:06:10;Pécs
+2630;Farkas Hanna;N;1963;2;Dunakanyar Futóklub;3;Maraton;42195;5:28:00;Vác
+2680;Király Balázs;F;1961;1;Egyesület nélkül;2;Félmaraton;21098;1:56:58;Győr
+2223;Szilágyi Dániel;F;1959;1;Egyesület nélkül;3;Maraton;42195;3:04:27;Gödöllő
+1378;Oláh Milán;F;1955;1;Egyesület nélkül;1;10 km;10000;1:11:31;Debrecen
+2186;Horváth Balázs;F;1994;1;Egyesület nélkül;2;Félmaraton;21098;3:00:24;Debrecen
+1421;Fodor Attila;F;1985;7;Balaton Running Club;2;Félmaraton;21098;1:42:24;Miskolc
+2232;László Lilla;N;1972;5;Bükk Trail Team;1;10 km;10000;0:56:55;Miskolc
+1800;Takács Csaba;F;1981;1;Egyesület nélkül;2;Félmaraton;21098;2:58:42;Győr
+2406;Szabó Richárd;F;1955;1;Egyesület nélkül;1;10 km;10000;1:17:44;Gyöngyös
+2092;Katona Andrea;N;1983;1;Egyesület nélkül;2;Félmaraton;21098;2:54:06;Debrecen
+1356;Gál István;F;1962;6;Pannon Futók;1;10 km;10000;0:49:55;Miskolc
+2907;Juhász Norbert;F;1986;6;Pannon Futók;2;Félmaraton;21098;2:27:27;Eger
+2365;Kiss Szilvia;N;1955;1;Egyesület nélkül;2;Félmaraton;21098;2:33:31;Pécs
+2898;Orsós Csaba;F;1965;1;Egyesület nélkül;1;10 km;10000;1:13:40;Győr
+1870;Kiss Balázs;F;1983;4;Tisza Runners;1;10 km;10000;1:18:00;Szeged
+2339;Sipos Dániel;F;1964;7;Balaton Running Club;2;Félmaraton;21098;1:40:17;Győr
+1662;Juhász Fanni;N;1957;3;Mátra SE;1;10 km;10000;0:40:34;Kecskemét
+2800;Fehér János;F;1975;6;Pannon Futók;2;Félmaraton;21098;3:02:46;Miskolc
+1539;Kiss Kinga;N;2005;2;Dunakanyar Futóklub;1;10 km;10000;1:27:48;Gödöllő
+2442;Papp Tímea;N;1978;7;Balaton Running Club;1;10 km;10000;1:20:11;Balassagyarmat
+1932;Simon Dávid;F;1995;1;Egyesület nélkül;1;10 km;10000;1:09:48;Gödöllő
+2220;Kiss Zsolt;F;1978;8;Alföldi Szél SE;2;Félmaraton;21098;1:49:50;Debrecen
+2669;Bíró Mónika;N;1994;1;Egyesület nélkül;3;Maraton;42195;6:46:14;Kecskemét
+2126;Papp Dóra;N;1995;1;Egyesület nélkül;1;10 km;10000;0:53:35;Miskolc
+2589;Fehér Csaba;F;2002;6;Pannon Futók;1;10 km;10000;1:04:47;Balassagyarmat
+2531;Varga Hanna;N;2005;7;Balaton Running Club;2;Félmaraton;21098;1:33:47;Szentendre
+2824;Simon Flóra;N;1996;1;Egyesület nélkül;3;Maraton;42195;6:46:34;Szeged
+1841;Szabó Tímea;N;1981;1;Egyesület nélkül;3;Maraton;42195;3:13:31;Veszprém
+2304;László Csaba;F;1964;1;Egyesület nélkül;1;10 km;10000;1:10:19;Szeged
+1718;Katona Csilla;N;1989;4;Tisza Runners;2;Félmaraton;21098;1:56:56;Gödöllő
+1698;Gulyás Nóra;N;1972;1;Egyesület nélkül;2;Félmaraton;21098;3:26:32;Miskolc
+2273;Török Dániel;F;1964;8;Alföldi Szél SE;2;Félmaraton;21098;2:50:23;Eger
+2539;Király Levente;F;1970;8;Alföldi Szél SE;3;Maraton;42195;6:00:25;Debrecen
+1372;László Levente;F;1992;1;Egyesület nélkül;2;Félmaraton;21098;2:32:43;Pécs
+2071;Juhász Zsolt;F;1975;7;Balaton Running Club;2;Félmaraton;21098;2:45:06;Gyöngyös
+1586;Fehér Ferenc;F;1987;1;Egyesület nélkül;1;10 km;10000;0:58:32;Miskolc
+2712;Mészáros Réka;N;1971;1;Egyesület nélkül;1;10 km;10000;0:46:57;Budapest
+1523;Molnár Réka;N;1996;4;Tisza Runners;1;10 km;10000;0:44:36;Szolnok
+2299;Mészáros Norbert;F;1958;2;Dunakanyar Futóklub;1;10 km;10000;1:12:10;Balassagyarmat
+1642;Farkas Anna;N;1985;6;Pannon Futók;3;Maraton;42195;6:25:34;Szeged
+2859;Török Mónika;N;2001;1;Egyesület nélkül;1;10 km;10000;1:20:48;Gödöllő
+1933;Török Sándor;F;1985;1;Egyesület nélkül;1;10 km;10000;0:56:51;Debrecen
+2704;Tóth Vivien;N;1967;6;Pannon Futók;1;10 km;10000;1:18:31;Gyöngyös
+2933;Tóth Ildikó;N;1985;1;Egyesület nélkül;1;10 km;10000;1:14:54;Eger
+1751;Molnár Petra;N;1995;7;Balaton Running Club;1;10 km;10000;0:51:10;Veszprém
+1091;László Attila;F;1994;6;Pannon Futók;1;10 km;10000;0:52:52;Vác
+2243;Kovács Ferenc;F;2001;1;Egyesület nélkül;1;10 km;10000;0:37:47;Szolnok
+2214;Simon Levente;F;1985;1;Egyesület nélkül;2;Félmaraton;21098;2:58:45;Pécs
+1011;László Zita;N;1978;1;Egyesület nélkül;1;10 km;10000;1:15:05;Szentendre
+1187;Lakatos Viktória;N;1978;8;Alföldi Szél SE;1;10 km;10000;0:56:50;Veszprém
+1660;Balogh Gábor;F;2001;1;Egyesület nélkül;1;10 km;10000;0:52:29;Győr
+1590;Kovács Dávid;F;1983;2;Dunakanyar Futóklub;1;10 km;10000;0:45:57;Vác
+1433;Szabó Tibor;F;2002;1;Egyesület nélkül;1;10 km;10000;1:06:58;Gödöllő
+1369;Szilágyi Viktor;F;2009;4;Tisza Runners;1;10 km;10000;1:06:35;Szentendre
+1270;Szűcs Edina;N;2001;1;Egyesület nélkül;1;10 km;10000;1:02:37;Gödöllő
+2533;Lakatos Attila;F;1965;1;Egyesület nélkül;2;Félmaraton;21098;2:13:19;Vác
+2084;Simon Bence;F;1977;1;Egyesület nélkül;1;10 km;10000;0:38:17;Balassagyarmat
+2009;Pintér András;F;2004;7;Balaton Running Club;2;Félmaraton;21098;2:48:08;Veszprém
+1794;László Rita;N;1980;1;Egyesület nélkül;1;10 km;10000;1:28:53;Vác
+1653;Magyar Edina;N;2002;8;Alföldi Szél SE;1;10 km;10000;0:53:20;Miskolc
+2954;Lakatos Tibor;F;1998;1;Egyesület nélkül;1;10 km;10000;0:52:58;Vác
+2631;Fekete Gergő;F;1986;1;Egyesület nélkül;1;10 km;10000;0:58:56;Szolnok
+2199;Lakatos Nóra;N;1975;3;Mátra SE;3;Maraton;42195;4:39:48;Budapest
+1116;Farkas István;F;1963;2;Dunakanyar Futóklub;1;10 km;10000;1:14:03;Szeged
+1042;Magyar Emese;N;1982;7;Balaton Running Club;3;Maraton;42195;3:48:48;Szolnok
+1049;Gál András;F;1999;8;Alföldi Szél SE;1;10 km;10000;0:56:41;Balassagyarmat
+2599;Fodor András;F;1974;1;Egyesület nélkül;3;Maraton;42195;2:57:00;Kecskemét
+1782;Fekete Judit;N;1984;1;Egyesület nélkül;1;10 km;10000;1:15:47;Győr
+1655;Nagy Richárd;F;2001;4;Tisza Runners;1;10 km;10000;0:54:55;Gödöllő
+2620;Fehér Beáta;N;1957;1;Egyesület nélkül;3;Maraton;42195;3:24:13;Vác
+2718;Mészáros Ferenc;F;1958;2;Dunakanyar Futóklub;3;Maraton;42195;5:15:49;Gödöllő
+1564;Kocsis Péter;F;1959;8;Alföldi Szél SE;2;Félmaraton;21098;2:43:37;Budapest
+2687;Oláh Zoltán;F;1999;2;Dunakanyar Futóklub;2;Félmaraton;21098;1:29:20;Balassagyarmat
+1673;Varga Lilla;N;1965;5;Bükk Trail Team;1;10 km;10000;1:28:21;Győr
+1958;Fekete Ildikó;N;1985;1;Egyesület nélkül;2;Félmaraton;21098;2:08:04;Gödöllő
+1223;Szűcs Boglárka;N;1964;6;Pannon Futók;2;Félmaraton;21098;3:09:46;Veszprém
+1018;Kis Levente;F;1982;1;Egyesület nélkül;1;10 km;10000;1:18:21;Gödöllő
+2257;Lukács Sándor;F;1970;1;Egyesület nélkül;1;10 km;10000;1:03:19;Szeged
+2230;Horváth Lilla;N;1955;1;Egyesület nélkül;2;Félmaraton;21098;2:21:46;Gyöngyös
+2332;Szalai Krisztián;F;1993;6;Pannon Futók;1;10 km;10000;0:40:29;Miskolc
+2461;Gulyás Zita;N;1976;3;Mátra SE;1;10 km;10000;0:57:45;Gyöngyös
+1351;Takács Milán;F;1994;2;Dunakanyar Futóklub;1;10 km;10000;0:48:55;Debrecen
+1707;Balázs Balázs;F;2001;5;Bükk Trail Team;1;10 km;10000;1:20:54;Szolnok
+1516;Kis Máté;F;2001;2;Dunakanyar Futóklub;3;Maraton;42195;6:26:35;Eger
+2767;Szűcs Katalin;N;1966;8;Alföldi Szél SE;1;10 km;10000;0:42:10;Budapest
+1999;László Tímea;N;2002;1;Egyesület nélkül;2;Félmaraton;21098;2:46:18;Eger
+1670;Király Judit;N;1964;1;Egyesület nélkül;2;Félmaraton;21098;2:59:02;Miskolc
+2801;Magyar Norbert;F;1998;2;Dunakanyar Futóklub;2;Félmaraton;21098;3:01:11;Miskolc
+1109;Orsós Katalin;N;1983;8;Alföldi Szél SE;2;Félmaraton;21098;2:35:53;Balassagyarmat
+1562;Farkas Fanni;N;1971;1;Egyesület nélkül;3;Maraton;42195;6:44:42;Miskolc
+1846;Kovács Olivér;F;2006;8;Alföldi Szél SE;3;Maraton;42195;4:01:17;Kecskemét
+2032;Tóth Réka;N;1987;1;Egyesület nélkül;3;Maraton;42195;DNF;Eger
+2229;Balogh Rita;N;1994;2;Dunakanyar Futóklub;1;10 km;10000;0:45:07;Szentendre
+2128;Horváth Tibor;F;1994;1;Egyesület nélkül;2;Félmaraton;21098;1:36:36;Vác
+1175;Kocsis Gábor;F;1961;3;Mátra SE;1;10 km;10000;1:11:46;Eger
+2521;Németh Tímea;N;1967;7;Balaton Running Club;1;10 km;10000;0:51:06;Balassagyarmat
+2480;Oláh Péter;F;1976;7;Balaton Running Club;1;10 km;10000;1:16:52;Eger
+1299;Kiss Zsófia;N;2008;8;Alföldi Szél SE;1;10 km;10000;1:25:54;Debrecen
+1991;Bíró Kristóf;F;1999;8;Alföldi Szél SE;2;Félmaraton;21098;1:39:04;Győr
+2118;Lakatos Boglárka;N;1957;1;Egyesület nélkül;2;Félmaraton;21098;3:13:30;Gödöllő
+1646;Gulyás Norbert;F;1995;4;Tisza Runners;2;Félmaraton;21098;1:13:14;Debrecen
+2587;Juhász Andrea;N;1982;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:43:30;Veszprém
+2105;Kocsis Tamás;F;2009;7;Balaton Running Club;1;10 km;10000;0:42:16;Budapest
+1731;László Nóra;N;1960;8;Alföldi Szél SE;1;10 km;10000;1:19:32;Veszprém
+1588;Gál Andrea;N;1958;1;Egyesület nélkül;3;Maraton;42195;5:27:54;Szolnok
+2108;Király Csilla;N;1980;7;Balaton Running Club;1;10 km;10000;1:22:10;Pécs
+2588;Varga Dániel;F;1971;6;Pannon Futók;2;Félmaraton;21098;2:30:00;Miskolc
+1831;Balázs Orsolya;N;1978;1;Egyesület nélkül;1;10 km;10000;1:06:14;Miskolc
+1102;Török Zita;N;2007;6;Pannon Futók;1;10 km;10000;0:57:22;Eger
+2719;Szűcs Péter;F;1996;2;Dunakanyar Futóklub;1;10 km;10000;1:22:09;Debrecen
+1108;Rácz Tibor;F;1983;1;Egyesület nélkül;2;Félmaraton;21098;3:01:55;Miskolc
+1012;Kovács Boglárka;N;1986;7;Balaton Running Club;1;10 km;10000;1:11:07;Balassagyarmat
+1902;Gál Krisztián;F;1964;7;Balaton Running Club;2;Félmaraton;21098;2:46:11;Balassagyarmat
+2870;Oláh Bence;F;1978;8;Alföldi Szél SE;1;10 km;10000;0:35:37;Eger
+2736;Horváth Réka;N;1986;4;Tisza Runners;1;10 km;10000;0:45:31;Győr
+2575;Varga Edina;N;1997;1;Egyesület nélkül;2;Félmaraton;21098;2:29:29;Miskolc
+2675;Lakatos Lilla;N;1962;1;Egyesület nélkül;1;10 km;10000;0:54:13;Pécs
+2298;Katona Richárd;F;1964;3;Mátra SE;2;Félmaraton;21098;1:29:09;Eger
+2956;Kiss Krisztián;F;1997;1;Egyesület nélkül;2;Félmaraton;21098;2:40:23;Balassagyarmat
+2974;Nagy Máté;F;1994;3;Mátra SE;2;Félmaraton;21098;2:34:32;Debrecen
+2488;Gulyás Beáta;N;1992;8;Alföldi Szél SE;3;Maraton;42195;5:28:26;Győr
+2026;Kis Viktor;F;1989;1;Egyesület nélkül;2;Félmaraton;21098;2:50:32;Győr
+2787;Papp Zsófia;N;1967;5;Bükk Trail Team;1;10 km;10000;1:17:00;Budapest
+1100;Fodor Csaba;F;1993;1;Egyesület nélkül;1;10 km;10000;DNF;Szolnok
+1495;Tóth Csaba;F;1962;8;Alföldi Szél SE;1;10 km;10000;0:59:41;Vác
+1959;Fekete Réka;N;1962;1;Egyesület nélkül;3;Maraton;42195;6:12:03;Szentendre
+1415;Lakatos Viktor;F;1999;1;Egyesület nélkül;1;10 km;10000;0:46:02;Gödöllő
+2460;Lukács Richárd;F;1976;8;Alföldi Szél SE;2;Félmaraton;21098;2:48:45;Vác
+2087;Papp Zita;N;2005;1;Egyesület nélkül;3;Maraton;42195;5:03:09;Eger
+1144;Lukács Milán;F;2002;1;Egyesület nélkül;1;10 km;10000;1:16:05;Pécs
+1713;Varga Csilla;N;1996;3;Mátra SE;2;Félmaraton;21098;2:29:30;Vác
+2707;Horváth Zoltán;F;1969;1;Egyesület nélkül;3;Maraton;42195;6:23:56;Eger
+1657;Varga Tamás;F;1966;1;Egyesület nélkül;1;10 km;10000;1:26:03;Gödöllő
+1313;Török István;F;1982;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:21:52;Veszprém
+2899;Molnár Kristóf;F;1962;7;Balaton Running Club;1;10 km;10000;0:46:28;Debrecen
+2784;Fodor Kinga;N;1981;1;Egyesület nélkül;1;10 km;10000;1:00:51;Balassagyarmat
+2701;Kovács Sándor;F;2004;8;Alföldi Szél SE;3;Maraton;42195;3:07:39;Győr
+2110;Balogh Flóra;N;1972;1;Egyesület nélkül;2;Félmaraton;21098;2:17:42;Miskolc
+2278;Fekete Rita;N;1996;1;Egyesület nélkül;1;10 km;10000;1:17:34;Miskolc
+1440;Fodor Zoltán;F;1968;2;Dunakanyar Futóklub;1;10 km;10000;1:06:33;Budapest
+2652;Pintér Viktor;F;1975;4;Tisza Runners;2;Félmaraton;21098;2:48:12;Gyöngyös
+2548;Kocsis István;F;1997;6;Pannon Futók;1;10 km;10000;0:50:04;Szeged
+1230;Juhász Ildikó;N;1993;1;Egyesület nélkül;2;Félmaraton;21098;3:02:54;Veszprém
+2153;Szalai Dániel;F;1973;1;Egyesület nélkül;1;10 km;10000;1:22:40;Miskolc
+2222;Katona Zsófia;N;1958;4;Tisza Runners;2;Félmaraton;21098;1:30:14;Szeged
+2218;Nagy Lilla;N;1955;4;Tisza Runners;1;10 km;10000;1:33:17;Debrecen
+2526;Kis Viktória;N;2005;7;Balaton Running Club;1;10 km;10000;1:24:10;Szolnok
+2169;Orsós Ildikó;N;1961;1;Egyesület nélkül;2;Félmaraton;21098;2:37:13;Balassagyarmat
+2664;Varga Zsolt;F;1978;4;Tisza Runners;2;Félmaraton;21098;2:06:48;Balassagyarmat
+1789;Szalai Ferenc;F;1993;1;Egyesület nélkül;2;Félmaraton;21098;1:39:57;Miskolc
+1220;Németh Viktor;F;1983;1;Egyesület nélkül;1;10 km;10000;0:50:44;Miskolc
+2330;Pintér Flóra;N;1965;1;Egyesület nélkül;2;Félmaraton;21098;2:22:30;Szeged
+1747;Bíró Gábor;F;1959;7;Balaton Running Club;1;10 km;10000;0:45:18;Miskolc
+1414;Rácz Kristóf;F;1963;7;Balaton Running Club;1;10 km;10000;0:52:47;Veszprém
+2352;Katona Gréta;N;1962;1;Egyesület nélkül;3;Maraton;42195;4:00:07;Miskolc
+1886;Sipos Ildikó;N;1965;7;Balaton Running Club;2;Félmaraton;21098;DNF;Szeged
+2085;Papp Eszter;N;1958;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:46:45;Budapest
+1367;Bíró Edina;N;1974;8;Alföldi Szél SE;1;10 km;10000;1:31:04;Eger
+2058;Orsós Krisztián;F;1960;4;Tisza Runners;1;10 km;10000;1:06:23;Debrecen
+2969;Szabó Orsolya;N;1989;1;Egyesület nélkül;1;10 km;10000;0:51:29;Kecskemét
+2775;Mészáros Dávid;F;1994;8;Alföldi Szél SE;1;10 km;10000;0:50:41;Veszprém
+1350;Kiss Viktória;N;2006;1;Egyesület nélkül;1;10 km;10000;1:05:58;Veszprém
+2096;Fekete László;F;1995;1;Egyesület nélkül;1;10 km;10000;0:53:02;Győr
+1106;Pintér Mónika;N;1978;7;Balaton Running Club;2;Félmaraton;21098;1:51:46;Kecskemét
+1575;Kis Szilvia;N;1997;1;Egyesület nélkül;2;Félmaraton;21098;2:37:17;Szolnok
+2095;Kiss Zoltán;F;1993;1;Egyesület nélkül;2;Félmaraton;21098;1:30:06;Veszprém
+1876;Szűcs Anna;N;1978;1;Egyesület nélkül;1;10 km;10000;1:17:57;Gyöngyös
+1728;Fekete Krisztián;F;1960;6;Pannon Futók;3;Maraton;42195;5:30:40;Szolnok
+2655;Kiss Kristóf;F;1971;4;Tisza Runners;1;10 km;10000;0:39:10;Szolnok
+2673;Rácz Csaba;F;1967;1;Egyesület nélkül;2;Félmaraton;21098;2:45:43;Budapest
+1295;Tóth Máté;F;1955;6;Pannon Futók;3;Maraton;42195;6:38:54;Veszprém
+1884;Magyar Lilla;N;1971;1;Egyesület nélkül;2;Félmaraton;21098;2:55:23;Eger
+2569;Fehér Szilvia;N;1982;7;Balaton Running Club;2;Félmaraton;21098;2:56:17;Gyöngyös
+1428;Szalai Fanni;N;2003;7;Balaton Running Club;2;Félmaraton;21098;1:41:09;Szentendre
+2014;Kovács András;F;1985;3;Mátra SE;2;Félmaraton;21098;1:32:17;Debrecen
+2823;Kiss Márk;F;1972;1;Egyesület nélkül;2;Félmaraton;21098;1:25:06;Szolnok
+1493;Rácz Orsolya;N;2006;1;Egyesület nélkül;1;10 km;10000;0:55:18;Miskolc
+1184;Tóth Eszter;N;1979;1;Egyesület nélkül;2;Félmaraton;21098;2:25:51;Balassagyarmat
+1309;Szűcs Vivien;N;1989;3;Mátra SE;3;Maraton;42195;4:13:53;Balassagyarmat
+2000;Szűcs Norbert;F;1997;1;Egyesület nélkül;3;Maraton;42195;DNF;Győr
+1006;Simon Csilla;N;1997;6;Pannon Futók;1;10 km;10000;0:40:04;Gödöllő
+1138;Kocsis Judit;N;1972;1;Egyesület nélkül;2;Félmaraton;21098;1:58:45;Pécs
+2292;Bíró Katalin;N;2002;3;Mátra SE;1;10 km;10000;DNF;Pécs
+2116;Fehér Edina;N;1980;2;Dunakanyar Futóklub;2;Félmaraton;21098;DNF;Győr
+2246;Fehér Sándor;F;1977;1;Egyesület nélkül;2;Félmaraton;21098;2:55:13;Kecskemét
+1254;Gulyás Krisztián;F;1994;2;Dunakanyar Futóklub;1;10 km;10000;1:22:09;Pécs
+1170;Fehér Dávid;F;2008;7;Balaton Running Club;3;Maraton;42195;6:09:32;Gödöllő
+2618;Sipos Lilla;N;1955;1;Egyesület nélkül;3;Maraton;42195;5:38:48;Szentendre
+1881;Farkas Richárd;F;1973;6;Pannon Futók;2;Félmaraton;21098;1:50:29;Vác
+1868;Balogh Csaba;F;1976;1;Egyesület nélkül;1;10 km;10000;0:49:33;Szeged
+2175;Fodor Zsolt;F;1965;7;Balaton Running Club;1;10 km;10000;1:13:17;Győr
+2323;Szabó Ildikó;N;1960;1;Egyesület nélkül;1;10 km;10000;0:53:13;Pécs
+1211;Farkas Zsófia;N;1956;7;Balaton Running Club;3;Maraton;42195;4:18:54;Debrecen
+2970;Balogh Dóra;N;1999;6;Pannon Futók;2;Félmaraton;21098;2:10:46;Miskolc
+2454;Simon Vivien;N;1976;7;Balaton Running Club;2;Félmaraton;21098;DNF;Szentendre
+2930;Németh Milán;F;1992;1;Egyesület nélkül;2;Félmaraton;21098;2:02:46;Eger
+2379;Szabó Balázs;F;1999;1;Egyesület nélkül;1;10 km;10000;DNF;Szentendre
+1514;Kiss Csaba;F;1971;5;Bükk Trail Team;2;Félmaraton;21098;2:43:36;Vác
+1854;Katona Sándor;F;2000;1;Egyesület nélkül;3;Maraton;42195;2:38:18;Debrecen
+1110;Lakatos László;F;1969;1;Egyesület nélkül;1;10 km;10000;0:50:52;Gyöngyös
+1177;Horváth Eszter;N;1985;5;Bükk Trail Team;1;10 km;10000;0:41:15;Debrecen
+1216;Katona Hanna;N;1956;3;Mátra SE;1;10 km;10000;1:14:46;Vác
+1364;Juhász Hanna;N;1970;8;Alföldi Szél SE;1;10 km;10000;1:14:21;Debrecen
+2862;Orsós Kristóf;F;1986;1;Egyesület nélkül;2;Félmaraton;21098;1:40:26;Vác
+1864;Fodor Viktor;F;1974;8;Alföldi Szél SE;2;Félmaraton;21098;1:59:44;Budapest
+1739;Simon Richárd;F;2008;3;Mátra SE;3;Maraton;42195;4:50:47;Győr
+1197;Juhász Eszter;N;1978;1;Egyesület nélkül;2;Félmaraton;21098;1:22:18;Debrecen
+1772;Simon Boglárka;N;1992;1;Egyesület nélkül;3;Maraton;42195;6:57:26;Kecskemét
+1969;Mészáros István;F;1976;8;Alföldi Szél SE;2;Félmaraton;21098;1:55:12;Budapest
+1103;Bíró Levente;F;1983;1;Egyesület nélkül;1;10 km;10000;0:43:42;Szentendre
+2301;Király István;F;1962;4;Tisza Runners;1;10 km;10000;0:55:37;Miskolc
+1023;Fodor Márk;F;1983;2;Dunakanyar Futóklub;1;10 km;10000;0:43:37;Veszprém
+1829;Mészáros Tímea;N;1988;1;Egyesület nélkül;1;10 km;10000;1:16:58;Szentendre
+2181;Szilágyi Viktória;N;1967;2;Dunakanyar Futóklub;1;10 km;10000;0:59:09;Szolnok
+1131;Simon Zsófia;N;1974;6;Pannon Futók;3;Maraton;42195;4:51:42;Szolnok
+1645;Takács Tibor;F;1995;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:19:51;Szolnok
+2255;Bíró Anna;N;1999;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:35:26;Veszprém
+1814;Lakatos Szilvia;N;1991;2;Dunakanyar Futóklub;2;Félmaraton;21098;1:45:03;Vác
+2368;Gál Petra;N;1991;9;Kékes Futóbarátok;2;Félmaraton;21098;1:49:12;Kecskemét
+1638;Szűcs Zoltán;F;1971;1;Egyesület nélkül;2;Félmaraton;21098;2:15:17;Budapest
+2210;Orsós Olivér;F;1969;1;Egyesület nélkül;1;10 km;10000;0:53:25;Pécs
+1572;Bíró Zsolt;F;1972;4;Tisza Runners;1;10 km;10000;1:26:36;Győr
+1164;Orsós Balázs;F;2007;1;Egyesület nélkül;2;Félmaraton;21098;1:51:40;Miskolc
+1178;Mészáros János;F;1957;8;Alföldi Szél SE;1;10 km;10000;DNF;Győr
+2717;Magyar Beáta;N;1997;1;Egyesület nélkül;3;Maraton;42195;4:01:22;Gödöllő
+2605;Balázs Ádám;F;1978;8;Alföldi Szél SE;1;10 km;10000;1:03:38;Balassagyarmat
+2642;Rácz Anna;N;1986;4;Tisza Runners;1;10 km;10000;0:42:18;Szolnok
+2286;Nagy Andrea;N;1996;5;Bükk Trail Team;1;10 km;10000;0:36:19;Szolnok
+1767;Lukács Edina;N;1996;4;Tisza Runners;3;Maraton;42195;5:23:00;Veszprém
+1180;Gulyás Edina;N;1962;8;Alföldi Szél SE;1;10 km;10000;1:00:27;Vác
+2490;Kiss Hanna;N;1955;1;Egyesület nélkül;3;Maraton;42195;5:21:11;Debrecen
+1951;Szilágyi Boglárka;N;1969;1;Egyesület nélkül;1;10 km;10000;0:51:41;Kecskemét
+2882;Németh Gábor;F;2008;8;Alföldi Szél SE;3;Maraton;42195;4:21:44;Kecskemét
+1413;Kis Ádám;F;1967;7;Balaton Running Club;1;10 km;10000;0:50:49;Győr
+1306;Molnár Szilvia;N;1961;3;Mátra SE;2;Félmaraton;21098;2:37:36;Gödöllő
+1765;Tóth Márk;F;2001;1;Egyesület nélkül;1;10 km;10000;1:08:59;Pécs
+2341;Tóth Kristóf;F;1967;8;Alföldi Szél SE;1;10 km;10000;1:00:11;Gödöllő
+2327;László Boglárka;N;1963;4;Tisza Runners;2;Félmaraton;21098;3:05:41;Eger
+1363;Rácz Richárd;F;2007;1;Egyesület nélkül;1;10 km;10000;1:10:55;Miskolc
+2474;Kis Judit;N;1978;1;Egyesület nélkül;2;Félmaraton;21098;1:24:05;Gödöllő
+2839;Simon Sándor;F;2004;3;Mátra SE;2;Félmaraton;21098;2:16:45;Eger
+2378;Varga Gábor;F;1973;2;Dunakanyar Futóklub;1;10 km;10000;0:36:33;Budapest
+2245;Horváth Tímea;N;1971;5;Bükk Trail Team;1;10 km;10000;1:18:41;Szeged
+2959;Németh Anna;N;1996;2;Dunakanyar Futóklub;1;10 km;10000;0:53:48;Eger
+1787;Fekete Norbert;F;1960;8;Alföldi Szél SE;1;10 km;10000;0:52:42;Vác
+1411;Kiss András;F;1995;1;Egyesület nélkül;1;10 km;10000;0:47:37;Miskolc
+2564;Török Judit;N;1970;1;Egyesület nélkül;1;10 km;10000;1:20:39;Szolnok
+2384;Szabó Tamás;F;1961;3;Mátra SE;1;10 km;10000;0:56:07;Gyöngyös
+2190;Rácz Zita;N;2009;3;Mátra SE;1;10 km;10000;1:06:31;Miskolc
+2884;Horváth Levente;F;2002;6;Pannon Futók;2;Félmaraton;21098;2:21:26;Miskolc
+1550;Orsós Réka;N;1961;7;Balaton Running Club;2;Félmaraton;21098;2:12:47;Győr
+1153;Katona Olivér;F;1963;7;Balaton Running Club;2;Félmaraton;21098;1:44:05;Eger
+2612;Juhász Vivien;N;1965;1;Egyesület nélkül;2;Félmaraton;21098;3:28:21;Eger
+1460;Juhász Milán;F;1987;8;Alföldi Szél SE;1;10 km;10000;DNF;Miskolc
+1315;Kocsis Kinga;N;1985;3;Mátra SE;3;Maraton;42195;4:59:28;Miskolc
+1287;Kiss Eszter;N;1987;8;Alföldi Szél SE;3;Maraton;42195;5:26:21;Eger
+1057;Balázs Eszter;N;1971;4;Tisza Runners;1;10 km;10000;1:18:44;Debrecen
+1242;Fekete Vivien;N;1986;2;Dunakanyar Futóklub;1;10 km;10000;0:39:39;Veszprém
+1565;Rácz Ferenc;F;1975;5;Bükk Trail Team;2;Félmaraton;21098;2:31:07;Gyöngyös
+2578;Balázs Szilvia;N;1988;1;Egyesület nélkül;2;Félmaraton;21098;2:33:45;Gyöngyös
+2492;Bíró Zoltán;F;2007;1;Egyesület nélkül;1;10 km;10000;1:21:17;Győr
+1658;Takács Beáta;N;1987;1;Egyesület nélkül;1;10 km;10000;1:22:05;Budapest
+2225;Fodor Norbert;F;2004;1;Egyesület nélkül;2;Félmaraton;21098;1:49:38;Budapest
+2640;Gulyás Tímea;N;1974;1;Egyesület nélkül;3;Maraton;42195;3:49:47;Szolnok
+1336;Török Edina;N;1960;1;Egyesület nélkül;1;10 km;10000;1:01:35;Gödöllő
+1435;Gál Ferenc;F;2000;8;Alföldi Szél SE;1;10 km;10000;1:16:10;Pécs
+2007;Török Fanni;N;1975;8;Alföldi Szél SE;1;10 km;10000;0:50:44;Szentendre
+1043;Katona Ádám;F;1985;5;Bükk Trail Team;2;Félmaraton;21098;2:15:57;Eger
+2613;Papp János;F;2005;1;Egyesület nélkül;2;Félmaraton;21098;2:23:34;Balassagyarmat
+2702;Juhász Kristóf;F;2005;1;Egyesület nélkül;3;Maraton;42195;5:41:02;Budapest
+2555;Nagy Vivien;N;1975;1;Egyesület nélkül;1;10 km;10000;1:11:32;Budapest
+1533;Papp Tamás;F;1992;6;Pannon Futók;3;Maraton;42195;3:04:56;Debrecen
+2265;Magyar Gréta;N;2007;7;Balaton Running Club;1;10 km;10000;DNF;Szolnok
+2132;Rácz Dóra;N;2008;2;Dunakanyar Futóklub;1;10 km;10000;0:42:56;Győr
+1628;Kiss Bence;F;1980;1;Egyesület nélkül;2;Félmaraton;21098;1:57:19;Veszprém
+1825;Bíró Csilla;N;1997;2;Dunakanyar Futóklub;3;Maraton;42195;4:02:02;Miskolc
+2975;Sipos Gréta;N;1978;7;Balaton Running Club;1;10 km;10000;1:10:30;Kecskemét
+1204;Horváth Ildikó;N;1999;8;Alföldi Szél SE;2;Félmaraton;21098;2:48:54;Szeged
+2748;Kiss Sándor;F;1957;3;Mátra SE;3;Maraton;42195;5:58:23;Vác
+2699;Katona Gábor;F;1980;8;Alföldi Szél SE;1;10 km;10000;1:02:18;Gödöllő
+1724;Kocsis Viktória;N;1986;7;Balaton Running Club;3;Maraton;42195;6:06:49;Kecskemét
+2827;Mészáros Sándor;F;1985;7;Balaton Running Club;2;Félmaraton;21098;2:48:01;Vác
+1053;Takács Mónika;N;1963;1;Egyesület nélkül;1;10 km;10000;1:04:46;Miskolc
+2133;Takács Bence;F;2008;5;Bükk Trail Team;2;Félmaraton;21098;1:24:23;Balassagyarmat
+1145;Kovács Attila;F;2005;3;Mátra SE;2;Félmaraton;21098;2:22:03;Szentendre
+1471;Oláh Dániel;F;1955;1;Egyesület nélkül;1;10 km;10000;0:54:56;Veszprém
+1827;Kiss Beáta;N;1985;3;Mátra SE;3;Maraton;42195;5:36:20;Veszprém
+1594;Szabó Vivien;N;2003;3;Mátra SE;1;10 km;10000;0:44:51;Kecskemét
+1442;Rácz Eszter;N;1996;6;Pannon Futók;3;Maraton;42195;5:16:23;Szolnok
+1031;Varga Csaba;F;2007;6;Pannon Futók;3;Maraton;42195;3:44:44;Eger
+2993;Mészáros Tibor;F;2009;1;Egyesület nélkül;1;10 km;10000;0:49:55;Pécs
+2639;Szilágyi Rita;N;1990;3;Mátra SE;3;Maraton;42195;6:13:55;Eger
+1656;Bíró Márk;F;1986;7;Balaton Running Club;1;10 km;10000;1:04:27;Debrecen
+2372;Gál Tibor;F;1973;1;Egyesület nélkül;2;Félmaraton;21098;2:59:18;Debrecen
+2999;Fekete Dóra;N;1994;1;Egyesület nélkül;3;Maraton;42195;5:31:29;Szolnok
+1788;Gál Lilla;N;1978;5;Bükk Trail Team;3;Maraton;42195;DNF;Szentendre
+2552;Gál Milán;F;1983;5;Bükk Trail Team;3;Maraton;42195;5:59:30;Debrecen
+2422;Király András;F;1981;1;Egyesület nélkül;3;Maraton;42195;3:50:34;Vác
+1149;Fekete Dávid;F;1979;2;Dunakanyar Futóklub;1;10 km;10000;0:49:38;Szentendre
+2540;Szalai Csaba;F;1989;8;Alföldi Szél SE;1;10 km;10000;0:36:28;Budapest
+1937;Kovács János;F;1985;3;Mátra SE;1;10 km;10000;0:34:47;Szentendre
+1927;Török Milán;F;1994;6;Pannon Futók;1;10 km;10000;0:38:16;Pécs
+2459;Rácz Bence;F;1959;1;Egyesület nélkül;2;Félmaraton;21098;2:19:45;Debrecen
+2913;Simon Tamás;F;1993;5;Bükk Trail Team;1;10 km;10000;1:21:10;Vác
+1101;Kocsis Réka;N;2000;1;Egyesület nélkül;3;Maraton;42195;6:45:09;Debrecen
+2926;Bíró Tamás;F;1976;7;Balaton Running Club;3;Maraton;42195;3:04:23;Debrecen
+2097;Szabó Gergő;F;1968;1;Egyesület nélkül;1;10 km;10000;0:41:54;Budapest
+2448;Gulyás Ádám;F;1976;3;Mátra SE;1;10 km;10000;1:01:00;Kecskemét
+2150;Takács Viktor;F;1959;7;Balaton Running Club;1;10 km;10000;1:24:28;Veszprém
+2731;Bíró Petra;N;1978;7;Balaton Running Club;1;10 km;10000;1:13:54;Gödöllő
+2288;Nagy Lili;N;1961;1;Egyesület nélkül;3;Maraton;42195;4:22:52;Miskolc
+1976;Balázs Levente;F;1980;8;Alföldi Szél SE;3;Maraton;42195;5:51:22;Győr
+1076;Szalai Zita;N;1981;1;Egyesület nélkül;1;10 km;10000;0:55:59;Balassagyarmat
+2757;Kiss Olivér;F;1956;6;Pannon Futók;1;10 km;10000;1:27:14;Gyöngyös
+1500;Sipos Andrea;N;1995;1;Egyesület nélkül;1;10 km;10000;0:54:34;Szentendre
+2399;Orsós János;F;1972;5;Bükk Trail Team;2;Félmaraton;21098;2:37:00;Debrecen
+1918;Simon Viktória;N;2008;1;Egyesület nélkül;1;10 km;10000;0:48:15;Debrecen
+1942;Katona Zoltán;F;1991;1;Egyesület nélkül;2;Félmaraton;21098;2:16:08;Szentendre
+2235;Gulyás István;F;1963;1;Egyesület nélkül;1;10 km;10000;0:37:37;Eger
+2594;Király Szilvia;N;2009;1;Egyesület nélkül;1;10 km;10000;1:25:16;Eger
+2069;Kis Péter;F;1986;6;Pannon Futók;1;10 km;10000;1:11:32;Miskolc
+1188;Balogh Mónika;N;1988;7;Balaton Running Club;3;Maraton;42195;5:07:47;Kecskemét
+1720;Katona László;F;1958;1;Egyesület nélkül;2;Félmaraton;21098;3:13:42;Debrecen
+2677;László Dávid;F;2003;5;Bükk Trail Team;2;Félmaraton;21098;DNF;Kecskemét
+1030;Tóth István;F;1966;6;Pannon Futók;3;Maraton;42195;6:08:19;Pécs
+1802;Magyar Márk;F;2003;2;Dunakanyar Futóklub;1;10 km;10000;1:19:56;Szolnok
+2483;Fehér István;F;1983;8;Alföldi Szél SE;2;Félmaraton;21098;1:20:31;Szeged
+2886;Lukács Krisztián;F;1979;1;Egyesület nélkül;1;10 km;10000;0:44:37;Budapest
+1635;Lukács Tamás;F;2006;1;Egyesület nélkül;3;Maraton;42195;4:57:20;Kecskemét
+1300;Kovács Kristóf;F;2003;8;Alföldi Szél SE;3;Maraton;42195;5:58:55;Vác
+2066;Gál Fanni;N;1972;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:19:11;Pécs
+2520;Simon Orsolya;N;1958;1;Egyesület nélkül;2;Félmaraton;21098;2:29:21;Kecskemét
+1333;Papp Lili;N;2004;1;Egyesület nélkül;3;Maraton;42195;5:50:52;Gödöllő
+2977;Kis Katalin;N;1987;4;Tisza Runners;1;10 km;10000;1:23:30;Gödöllő
+2949;Németh Ferenc;F;1960;1;Egyesület nélkül;3;Maraton;42195;4:42:38;Gyöngyös
+1290;Kovács Orsolya;N;1978;4;Tisza Runners;1;10 km;10000;0:58:29;Szolnok
+2147;Lukács Hanna;N;1969;3;Mátra SE;3;Maraton;42195;6:10:03;Szentendre
+2626;Kocsis Eszter;N;1970;7;Balaton Running Club;3;Maraton;42195;4:54:21;Gyöngyös
+1113;Sipos László;F;1984;8;Alföldi Szél SE;2;Félmaraton;21098;2:52:38;Balassagyarmat
+2698;Fekete Milán;F;1992;1;Egyesület nélkül;1;10 km;10000;0:42:41;Veszprém
+2984;Szabó Beáta;N;1956;4;Tisza Runners;1;10 km;10000;1:37:59;Gödöllő
+2561;Pintér Zita;N;1957;6;Pannon Futók;2;Félmaraton;21098;1:47:55;Győr
+2932;Szalai Boglárka;N;1987;6;Pannon Futók;3;Maraton;42195;4:00:18;Veszprém
+1231;Takács Lilla;N;1995;1;Egyesület nélkül;1;10 km;10000;1:00:16;Kecskemét
+1206;Török Rita;N;1978;2;Dunakanyar Futóklub;1;10 km;10000;1:13:50;Miskolc
+2076;Oláh Eszter;N;1981;3;Mátra SE;3;Maraton;42195;5:56:17;Budapest
+2439;Kis Eszter;N;1964;1;Egyesület nélkül;2;Félmaraton;21098;2:01:51;Balassagyarmat
+1944;Papp Csilla;N;1987;1;Egyesület nélkül;1;10 km;10000;1:10:16;Szolnok
+1815;Orsós Flóra;N;1957;2;Dunakanyar Futóklub;1;10 km;10000;1:32:43;Gyöngyös
+2306;Farkas András;F;1961;5;Bükk Trail Team;3;Maraton;42195;5:00:45;Veszprém
+1614;Balázs Lilla;N;1983;5;Bükk Trail Team;1;10 km;10000;1:05:44;Győr
+1966;Orsós Ferenc;F;1959;1;Egyesület nélkül;2;Félmaraton;21098;1:58:04;Budapest
+2828;Katona Kinga;N;1974;3;Mátra SE;1;10 km;10000;0:48:48;Vác
+2841;Papp Péter;F;1986;1;Egyesület nélkül;1;10 km;10000;1:14:17;Kecskemét
+2173;Török Gergő;F;1977;1;Egyesület nélkül;3;Maraton;42195;5:19:28;Szolnok
+1591;Kovács Eszter;N;1992;8;Alföldi Szél SE;2;Félmaraton;21098;2:14:06;Debrecen
+1234;Kis Ildikó;N;1993;7;Balaton Running Club;1;10 km;10000;1:02:59;Kecskemét
+2971;Szűcs András;F;1991;1;Egyesület nélkül;1;10 km;10000;0:59:00;Szentendre
+2943;Balogh Norbert;F;1964;4;Tisza Runners;3;Maraton;42195;3:28:51;Szeged
+1766;Lakatos Beáta;N;1981;4;Tisza Runners;1;10 km;10000;1:00:51;Szolnok
+2858;Fodor Gréta;N;1957;5;Bükk Trail Team;1;10 km;10000;DNF;Győr
+2885;Fekete János;F;1985;1;Egyesület nélkül;1;10 km;10000;1:06:06;Szentendre
+2821;Németh László;F;1983;1;Egyesület nélkül;1;10 km;10000;0:52:26;Balassagyarmat
+1526;Szalai Lilla;N;2000;8;Alföldi Szél SE;3;Maraton;42195;5:36:30;Veszprém
+2936;Molnár Krisztián;F;1957;1;Egyesület nélkül;2;Félmaraton;21098;2:17:16;Győr
+1386;Simon Gergő;F;1998;5;Bükk Trail Team;2;Félmaraton;21098;1:32:36;Budapest
+1453;Balogh Hanna;N;1968;8;Alföldi Szél SE;1;10 km;10000;DNF;Debrecen
+1618;Szabó Katalin;N;1976;1;Egyesület nélkül;1;10 km;10000;0:43:48;Szentendre
+1812;Nagy Tamás;F;1996;2;Dunakanyar Futóklub;1;10 km;10000;1:17:21;Kecskemét
+2643;Fehér Orsolya;N;2001;1;Egyesület nélkül;2;Félmaraton;21098;1:50:56;Gödöllő
+2577;Török Eszter;N;1991;1;Egyesület nélkül;2;Félmaraton;21098;3:06:27;Szentendre
+2263;Kovács Péter;F;2002;1;Egyesület nélkül;1;10 km;10000;0:41:00;Vác
+2472;Lakatos Olivér;F;1978;2;Dunakanyar Futóklub;3;Maraton;42195;5:11:52;Gödöllő
+1963;Farkas Orsolya;N;1972;7;Balaton Running Club;3;Maraton;42195;6:47:15;Kecskemét
+2557;Szalai Sándor;F;1967;1;Egyesület nélkül;1;10 km;10000;1:05:12;Gödöllő
+2573;Fekete Csaba;F;1997;6;Pannon Futók;1;10 km;10000;0:36:09;Veszprém
+2721;Kiss Milán;F;2006;4;Tisza Runners;2;Félmaraton;21098;3:01:25;Eger
+1549;Magyar Gergő;F;1987;3;Mátra SE;2;Félmaraton;21098;2:26:22;Szolnok
+1997;Fehér Máté;F;2006;1;Egyesület nélkül;1;10 km;10000;1:12:26;Budapest
+1926;Varga Milán;F;2003;7;Balaton Running Club;2;Félmaraton;21098;1:16:09;Szentendre
+2022;Kiss Boglárka;N;1987;8;Alföldi Szél SE;3;Maraton;42195;4:50:00;Szentendre
+2950;Szűcs Viktor;F;1960;6;Pannon Futók;1;10 km;10000;1:24:15;Gödöllő
+2233;Orsós Orsolya;N;1992;1;Egyesület nélkül;3;Maraton;42195;4:31:31;Debrecen
+2381;Simon Gábor;F;1994;1;Egyesület nélkül;2;Félmaraton;21098;1:28:35;Eger
+2990;Szilágyi Sándor;F;1993;7;Balaton Running Club;1;10 km;10000;0:55:23;Szentendre
+2280;Horváth Olivér;F;1961;7;Balaton Running Club;1;10 km;10000;1:07:19;Pécs
+2141;Orsós Andrea;N;1961;2;Dunakanyar Futóklub;1;10 km;10000;1:22:23;Vác
+2196;Papp Ádám;F;1998;5;Bükk Trail Team;3;Maraton;42195;4:55:15;Kecskemét
+2879;Németh Zsolt;F;1961;1;Egyesület nélkül;1;10 km;10000;1:18:59;Vác
+2077;Magyar Tamás;F;1973;1;Egyesület nélkül;2;Félmaraton;21098;2:46:20;Gödöllő
+1342;Szabó Hanna;N;1989;1;Egyesület nélkül;1;10 km;10000;1:18:09;Szeged
+2720;Tóth Szilvia;N;1996;1;Egyesület nélkül;3;Maraton;42195;6:19:31;Kecskemét
+2242;Király Mónika;N;1989;1;Egyesület nélkül;2;Félmaraton;21098;2:35:05;Vác
+2447;Magyar Krisztián;F;2008;4;Tisza Runners;1;10 km;10000;0:48:40;Balassagyarmat
+1304;Katona Anna;N;1973;1;Egyesület nélkül;2;Félmaraton;21098;2:10:02;Győr
+1327;Fodor Bence;F;1997;4;Tisza Runners;1;10 km;10000;1:06:41;Budapest
+1123;Szűcs Tímea;N;1983;5;Bükk Trail Team;1;10 km;10000;1:13:50;Debrecen
+1024;Oláh Krisztián;F;1996;5;Bükk Trail Team;2;Félmaraton;21098;2:05:07;Miskolc
+2780;Szilágyi Ferenc;F;1986;1;Egyesület nélkül;2;Félmaraton;21098;1:52:38;Vác
+1461;Török Olivér;F;1970;1;Egyesület nélkül;1;10 km;10000;1:01:41;Debrecen
+1458;Oláh Csaba;F;1960;2;Dunakanyar Futóklub;1;10 km;10000;1:29:02;Balassagyarmat
+2086;Balogh Csilla;N;2004;2;Dunakanyar Futóklub;3;Maraton;42195;2:52:07;Győr
+1013;Balogh Richárd;F;2003;1;Egyesület nélkül;3;Maraton;42195;6:01:04;Veszprém
+2122;Sipos Kinga;N;1992;3;Mátra SE;3;Maraton;42195;6:21:21;Szolnok
+2473;Fekete Katalin;N;1992;6;Pannon Futók;2;Félmaraton;21098;DNF;Szentendre
+1809;Papp Anna;N;1959;2;Dunakanyar Futóklub;3;Maraton;42195;6:16:48;Szeged
+2966;Orsós Viktória;N;1988;4;Tisza Runners;1;10 km;10000;0:52:45;Szeged
+1532;Fekete Bence;F;1982;8;Alföldi Szél SE;1;10 km;10000;0:52:14;Szolnok
+1003;Kiss Tibor;F;1969;1;Egyesület nélkül;1;10 km;10000;0:56:20;Pécs
+1542;Pintér Zsófia;N;1983;4;Tisza Runners;1;10 km;10000;1:05:53;Gödöllő
+1111;Gulyás Máté;F;1995;6;Pannon Futók;1;10 km;10000;1:03:41;Győr
+2234;Szűcs Zita;N;1975;4;Tisza Runners;3;Maraton;42195;6:58:05;Szeged
+1337;Lakatos Orsolya;N;1981;8;Alföldi Szél SE;1;10 km;10000;0:58:28;Debrecen
+1112;Varga Andrea;N;1987;4;Tisza Runners;1;10 km;10000;1:13:03;Gyöngyös
+2514;Németh Andrea;N;1976;1;Egyesület nélkül;1;10 km;10000;1:11:53;Miskolc
+2416;Kocsis Richárd;F;1985;2;Dunakanyar Futóklub;3;Maraton;42195;4:37:17;Szolnok
+2556;Varga Judit;N;1964;1;Egyesület nélkül;1;10 km;10000;1:12:19;Budapest
+2398;Balogh Kinga;N;1979;1;Egyesület nélkül;1;10 km;10000;1:18:52;Miskolc
+2976;Horváth Emese;N;1969;5;Bükk Trail Team;2;Félmaraton;21098;1:58:37;Pécs
+1022;Szűcs Szilvia;N;1960;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:09:23;Miskolc
+2917;Fodor Balázs;F;1965;5;Bükk Trail Team;2;Félmaraton;21098;2:38:14;Gyöngyös
+2831;Fekete Gábor;F;1995;7;Balaton Running Club;2;Félmaraton;21098;1:46:22;Szentendre
+2957;Farkas Kristóf;F;2008;4;Tisza Runners;2;Félmaraton;21098;1:47:08;Gödöllő
+1346;Kis Nóra;N;1990;1;Egyesület nélkül;3;Maraton;42195;5:04:28;Szeged
+1651;Németh Sándor;F;1994;1;Egyesület nélkül;1;10 km;10000;0:38:05;Gyöngyös
+2982;Juhász Bence;F;2005;1;Egyesület nélkül;1;10 km;10000;1:11:56;Kecskemét
+1151;Balogh Dávid;F;1963;1;Egyesület nélkül;1;10 km;10000;0:40:45;Debrecen
+2606;Szalai Eszter;N;1986;6;Pannon Futók;1;10 km;10000;1:27:35;Eger
+1249;Simon Zita;N;1971;1;Egyesület nélkül;1;10 km;10000;1:21:42;Szolnok
+1838;Gulyás Hanna;N;1975;7;Balaton Running Club;3;Maraton;42195;6:29:16;Szeged
+1341;Rácz Lilla;N;1981;1;Egyesület nélkül;1;10 km;10000;1:01:45;Miskolc
+2293;Bíró Zita;N;1974;1;Egyesület nélkül;2;Félmaraton;21098;3:15:19;Budapest
+2915;Szabó Ferenc;F;1990;8;Alföldi Szél SE;2;Félmaraton;21098;2:07:29;Debrecen
+2428;Varga Márk;F;1968;2;Dunakanyar Futóklub;1;10 km;10000;1:05:09;Eger
+2099;Mészáros Lili;N;1960;6;Pannon Futók;3;Maraton;42195;4:42:59;Győr
+1093;Nagy Csaba;F;1958;2;Dunakanyar Futóklub;1;10 km;10000;0:58:51;Gödöllő
+2524;Bíró Eszter;N;1974;8;Alföldi Szél SE;1;10 km;10000;0:57:14;Veszprém
+1477;Gál Gábor;F;1983;5;Bükk Trail Team;1;10 km;10000;0:47:15;Kecskemét
+1130;Tóth Judit;N;1970;4;Tisza Runners;2;Félmaraton;21098;1:33:40;Eger
+2568;Papp István;F;1999;7;Balaton Running Club;1;10 km;10000;1:06:44;Debrecen
+1443;Tóth Andrea;N;1977;1;Egyesület nélkül;2;Félmaraton;21098;2:47:04;Kecskemét
+2423;Szűcs Hanna;N;1994;1;Egyesület nélkül;2;Félmaraton;21098;2:48:49;Szolnok
+1546;Gulyás Kristóf;F;1964;1;Egyesület nélkül;2;Félmaraton;21098;1:50:40;Debrecen
+2083;Magyar Ádám;F;1990;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:00:03;Gödöllő
+2104;Molnár Máté;F;1963;1;Egyesület nélkül;3;Maraton;42195;5:10:36;Gyöngyös
+2018;Farkas Beáta;N;1961;1;Egyesület nélkül;2;Félmaraton;21098;3:16:08;Veszprém
+1028;Török Kristóf;F;2008;5;Bükk Trail Team;3;Maraton;42195;2:41:52;Vác
+2276;Kiss Mónika;N;1987;3;Mátra SE;2;Félmaraton;21098;3:01:20;Szeged
+1994;Sipos Gergő;F;1961;4;Tisza Runners;2;Félmaraton;21098;1:20:26;Debrecen
+1449;Kocsis Bence;F;1987;1;Egyesület nélkül;3;Maraton;42195;4:41:07;Kecskemét
+1371;Szabó Zsófia;N;1988;1;Egyesület nélkül;1;10 km;10000;0:35:42;Szeged
+2361;Simon Réka;N;1970;3;Mátra SE;1;10 km;10000;0:47:22;Eger
+2247;Magyar Levente;F;1981;1;Egyesület nélkül;3;Maraton;42195;3:52:01;Gödöllő
+2795;Szalai Attila;F;1977;1;Egyesület nélkül;1;10 km;10000;0:56:43;Kecskemét
+2727;Rácz Csilla;N;1955;5;Bükk Trail Team;2;Félmaraton;21098;3:31:26;Gödöllő
+1294;Szilágyi Olivér;F;1988;1;Egyesület nélkül;1;10 km;10000;0:49:54;Szeged
+1474;Simon Balázs;F;1962;5;Bükk Trail Team;2;Félmaraton;21098;1:44:41;Szolnok
+1275;Horváth Richárd;F;1994;5;Bükk Trail Team;1;10 km;10000;1:17:58;Szeged
+1778;Mészáros Andrea;N;1958;2;Dunakanyar Futóklub;1;10 km;10000;1:11:59;Pécs
+2465;Szalai Andrea;N;2000;1;Egyesület nélkül;3;Maraton;42195;5:34:54;Debrecen
+1219;Török Bence;F;2009;5;Bükk Trail Team;3;Maraton;42195;3:54:40;Győr
+1217;Nagy Balázs;F;1975;1;Egyesület nélkül;2;Félmaraton;21098;2:47:29;Szentendre
+1410;Lukács László;F;1982;8;Alföldi Szél SE;1;10 km;10000;0:37:18;Szentendre
+2525;Katona Tímea;N;1969;7;Balaton Running Club;1;10 km;10000;1:31:19;Miskolc
+1466;Takács Réka;N;1969;1;Egyesület nélkül;2;Félmaraton;21098;3:24:23;Balassagyarmat
+2258;Kovács Gréta;N;2001;8;Alföldi Szél SE;2;Félmaraton;21098;1:49:26;Pécs
+2658;Balázs Viktória;N;1974;1;Egyesület nélkül;3;Maraton;42195;3:15:02;Budapest
+2414;Balázs Norbert;F;1976;1;Egyesület nélkül;2;Félmaraton;21098;3:02:55;Balassagyarmat
+1989;Rácz Attila;F;1994;1;Egyesület nélkül;1;10 km;10000;1:14:30;Gödöllő
+2040;Horváth Dániel;F;1976;5;Bükk Trail Team;2;Félmaraton;21098;2:01:35;Gödöllő
+1953;Kiss Petra;N;1963;1;Egyesület nélkül;1;10 km;10000;1:24:59;Balassagyarmat
+1195;Sipos Ádám;F;1969;1;Egyesület nélkül;2;Félmaraton;21098;2:56:39;Szeged
+2869;Magyar Csilla;N;1985;3;Mátra SE;3;Maraton;42195;6:18:29;Szolnok
+2435;Szabó Sándor;F;1984;2;Dunakanyar Futóklub;1;10 km;10000;0:43:47;Szolnok
+2125;Gulyás Csaba;F;2007;8;Alföldi Szél SE;3;Maraton;42195;2:42:49;Miskolc
+2396;Farkas Lilla;N;1976;1;Egyesület nélkül;1;10 km;10000;0:53:36;Budapest
+2746;Szabó Ádám;F;1961;2;Dunakanyar Futóklub;3;Maraton;42195;4:31:46;Gödöllő
+2734;Balázs Flóra;N;1994;5;Bükk Trail Team;2;Félmaraton;21098;1:58:06;Balassagyarmat
+2250;Pintér Ildikó;N;1977;1;Egyesület nélkül;1;10 km;10000;1:31:49;Szeged
+2044;Papp Kristóf;F;1966;5;Bükk Trail Team;1;10 km;10000;DNF;Pécs
+1941;Katona Lilla;N;1964;4;Tisza Runners;2;Félmaraton;21098;1:32:08;Budapest
+2638;Rácz Judit;N;2009;3;Mátra SE;3;Maraton;42195;3:25:06;Szolnok
+1559;Bíró Ádám;F;1984;9;Kékes Futóbarátok;3;Maraton;42195;3:21:40;Eger
+1667;Molnár Viktória;N;1966;7;Balaton Running Club;3;Maraton;42195;4:28:24;Vác
+1307;Fekete Szilvia;N;1965;4;Tisza Runners;1;10 km;10000;1:35:09;Vác
+1338;Fehér Lili;N;1996;8;Alföldi Szél SE;2;Félmaraton;21098;2:03:37;Veszprém
+1984;Sipos Milán;F;1982;7;Balaton Running Club;1;10 km;10000;1:05:30;Gyöngyös
+1418;Varga Máté;F;1969;8;Alföldi Szél SE;1;10 km;10000;0:38:38;Pécs
+1143;Kovács Zoltán;F;1956;1;Egyesület nélkül;2;Félmaraton;21098;2:15:44;Veszprém
+1244;Katona Balázs;F;1996;7;Balaton Running Club;2;Félmaraton;21098;1:46:17;Gödöllő
+2100;Lukács Tímea;N;1997;1;Egyesület nélkül;1;10 km;10000;0:41:23;Veszprém
+1617;Török Gábor;F;1986;6;Pannon Futók;1;10 km;10000;0:57:52;Kecskemét
+1613;Takács Gergő;F;1982;8;Alföldi Szél SE;1;10 km;10000;0:45:06;Szentendre
+2962;Gulyás Lilla;N;2008;8;Alföldi Szél SE;3;Maraton;42195;3:47:18;Kecskemét
+1704;Fehér Nóra;N;1990;3;Mátra SE;1;10 km;10000;1:16:45;Balassagyarmat
+2672;Farkas Csaba;F;1986;1;Egyesület nélkül;1;10 km;10000;0:53:11;Gödöllő
+1898;Horváth Anna;N;1993;2;Dunakanyar Futóklub;1;10 km;10000;1:15:36;Gödöllő
+2922;Juhász Márk;F;1979;1;Egyesület nélkül;3;Maraton;42195;3:50:51;Pécs
+2224;Lakatos Fanni;N;1984;1;Egyesület nélkül;1;10 km;10000;0:51:52;Szeged
+1382;Orsós Levente;F;1986;5;Bükk Trail Team;2;Félmaraton;21098;1:47:32;Debrecen
+1434;Orsós Péter;F;1986;1;Egyesület nélkül;3;Maraton;42195;4:03:04;Debrecen
+1866;Papp Lilla;N;1976;5;Bükk Trail Team;1;10 km;10000;1:17:59;Eger
+1255;Simon Judit;N;1961;1;Egyesület nélkül;3;Maraton;42195;6:48:02;Vác
+1992;Török Balázs;F;2009;6;Pannon Futók;3;Maraton;42195;3:57:28;Szolnok
+1037;Takács Lili;N;1989;5;Bükk Trail Team;2;Félmaraton;21098;1:49:37;Kecskemét
+1978;Kovács Tamás;F;1999;8;Alföldi Szél SE;1;10 km;10000;1:04:28;Győr
+1706;Tóth Zita;N;1955;7;Balaton Running Club;2;Félmaraton;21098;2:51:37;Szentendre
+2070;Bíró Flóra;N;1971;8;Alföldi Szél SE;3;Maraton;42195;6:50:03;Budapest
+2266;Orsós Petra;N;1998;6;Pannon Futók;2;Félmaraton;21098;2:18:40;Gyöngyös
+1915;Bíró Csaba;F;1986;1;Egyesület nélkül;1;10 km;10000;0:58:15;Győr
+1934;Simon Mónika;N;1993;8;Alföldi Szél SE;2;Félmaraton;21098;1:34:43;Kecskemét
+2946;Horváth Edina;N;1977;1;Egyesület nélkül;1;10 km;10000;1:19:23;Kecskemét
+2739;Balázs Edina;N;1991;7;Balaton Running Club;1;10 km;10000;0:41:41;Eger
+1156;Gál Hanna;N;2004;7;Balaton Running Club;1;10 km;10000;0:36:06;Pécs
+2660;Simon Lilla;N;1965;1;Egyesület nélkül;1;10 km;10000;1:08:02;Veszprém
+2207;Király Zita;N;1955;8;Alföldi Szél SE;3;Maraton;42195;3:42:52;Eger
+2904;Balogh Gréta;N;1997;5;Bükk Trail Team;1;10 km;10000;1:26:31;Szentendre
+2004;Simon Ádám;F;2005;2;Dunakanyar Futóklub;2;Félmaraton;21098;1:59:09;Gödöllő
+1556;Oláh Balázs;F;1981;1;Egyesület nélkül;1;10 km;10000;0:54:03;Pécs
+1693;Horváth Csilla;N;1959;8;Alföldi Szél SE;3;Maraton;42195;6:02:39;Veszprém
+2665;Lakatos Gréta;N;1976;5;Bükk Trail Team;1;10 km;10000;1:30:47;Eger
+2522;Kocsis Lilla;N;2004;2;Dunakanyar Futóklub;2;Félmaraton;21098;1:29:55;Debrecen
+2776;Lukács Márk;F;1955;6;Pannon Futók;1;10 km;10000;0:46:16;Szeged
+2333;Kovács Tibor;F;2007;1;Egyesület nélkül;2;Félmaraton;21098;2:57:47;Balassagyarmat
+1359;Balogh Fanni;N;1987;1;Egyesület nélkül;2;Félmaraton;21098;2:30:59;Szolnok
+1853;Varga Zita;N;1976;1;Egyesület nélkül;3;Maraton;42195;3:18:49;Szeged
+1457;Farkas Balázs;F;1992;6;Pannon Futók;1;10 km;10000;0:39:05;Szolnok
+1398;Németh Péter;F;1980;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:56:26;Vác
+2314;Tóth Emese;N;1974;3;Mátra SE;3;Maraton;42195;6:52:49;Szentendre
+2781;Simon Beáta;N;1956;7;Balaton Running Club;2;Félmaraton;21098;2:03:50;Kecskemét
+2645;László Balázs;F;1988;8;Alföldi Szél SE;1;10 km;10000;0:48:02;Gödöllő
+1319;Kovács Beáta;N;2001;1;Egyesület nélkül;1;10 km;10000;0:52:35;Budapest
+1780;Németh Rita;N;1978;1;Egyesület nélkül;2;Félmaraton;21098;2:29:33;Szeged
+1924;Lukács Kristóf;F;1962;8;Alföldi Szél SE;1;10 km;10000;1:12:09;Balassagyarmat
+2534;Fehér Zsolt;F;1960;3;Mátra SE;2;Félmaraton;21098;3:04:45;Budapest
+2340;Németh Dániel;F;1977;8;Alföldi Szél SE;2;Félmaraton;21098;2:12:11;Miskolc
+1979;Kovács Ádám;F;1977;1;Egyesület nélkül;2;Félmaraton;21098;2:31:02;Szentendre
+2213;Kiss Judit;N;1967;1;Egyesület nélkül;1;10 km;10000;0:43:59;Vác
+1649;Papp Judit;N;1981;2;Dunakanyar Futóklub;1;10 km;10000;0:45:13;Debrecen
+2503;Kis Attila;F;1978;3;Mátra SE;1;10 km;10000;1:20:32;Gödöllő
+2450;Papp Gréta;N;1966;1;Egyesület nélkül;2;Félmaraton;21098;3:27:41;Szeged
+2354;Szilágyi Edina;N;1970;7;Balaton Running Club;1;10 km;10000;1:09:50;Balassagyarmat
+2716;Horváth Csaba;F;1984;8;Alföldi Szél SE;3;Maraton;42195;5:15:48;Miskolc
+1702;Pintér László;F;1993;2;Dunakanyar Futóklub;1;10 km;10000;1:19:28;Veszprém
+1389;Nagy Eszter;N;1969;4;Tisza Runners;3;Maraton;42195;4:23:31;Szeged
+1105;Molnár Vivien;N;1956;6;Pannon Futók;2;Félmaraton;21098;3:37:48;Pécs
+2519;Farkas Mónika;N;1988;2;Dunakanyar Futóklub;3;Maraton;42195;4:19:50;Pécs
+1438;Nagy Ildikó;N;1982;7;Balaton Running Club;1;10 km;10000;0:57:15;Miskolc
+1527;Katona Petra;N;1991;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:25:01;Pécs
+1345;Oláh Emese;N;2003;6;Pannon Futók;2;Félmaraton;21098;DNF;Eger
+1563;Lukács Petra;N;1992;1;Egyesület nélkül;1;10 km;10000;1:21:10;Debrecen
+2403;Kiss Dóra;N;1975;2;Dunakanyar Futóklub;2;Félmaraton;21098;2:00:45;Vác
+2960;Farkas Flóra;N;1965;1;Egyesület nélkül;2;Félmaraton;21098;1:51:32;Kecskemét
+1754;Tóth András;F;2009;8;Alföldi Szél SE;2;Félmaraton;21098;2:17:57;Győr
+2494;Kis Csaba;F;2005;5;Bükk Trail Team;2;Félmaraton;21098;2:47:56;Vác
+2654;László Mónika;N;1981;3;Mátra SE;1;10 km;10000;1:27:26;Eger
+2918;Takács Olivér;F;1959;8;Alföldi Szél SE;1;10 km;10000;1:15:48;Szolnok
+1115;Papp Krisztián;F;1995;1;Egyesület nélkül;1;10 km;10000;1:11:03;Veszprém
+1227;László Eszter;N;1962;1;Egyesület nélkül;2;Félmaraton;21098;2:02:57;Debrecen
+1506;Szűcs Ildikó;N;1983;1;Egyesület nélkül;3;Maraton;42195;3:21:47;Debrecen
+2601;Juhász András;F;1998;2;Dunakanyar Futóklub;1;10 km;10000;0:46:05;Miskolc
+2893;Király Gergő;F;1977;8;Alföldi Szél SE;3;Maraton;42195;6:29:28;Gyöngyös
+2538;Bíró Szilvia;N;1981;5;Bükk Trail Team;1;10 km;10000;1:19:09;Eger
+2065;Lukács Kinga;N;2001;1;Egyesület nélkül;3;Maraton;42195;3:02:59;Budapest
+2045;Szabó Zita;N;1962;4;Tisza Runners;1;10 km;10000;0:51:38;Szeged
+2725;Katona Krisztián;F;1984;4;Tisza Runners;3;Maraton;42195;2:48:58;Vác
+2636;Kocsis Csilla;N;1997;4;Tisza Runners;3;Maraton;42195;4:09:08;Debrecen
+2404;Fehér Petra;N;2000;1;Egyesület nélkül;2;Félmaraton;21098;2:56:56;Szentendre
+2559;Bíró Dóra;N;1967;5;Bükk Trail Team;3;Maraton;42195;3:55:53;Vác
+2963;Király Nóra;N;1987;8;Alföldi Szél SE;2;Félmaraton;21098;3:12:16;Balassagyarmat
+2988;Katona András;F;1964;1;Egyesület nélkül;1;10 km;10000;0:59:16;Pécs
+2506;Fehér Viktória;N;1965;1;Egyesület nélkül;2;Félmaraton;21098;1:54:07;Eger
+1128;Varga Nóra;N;2003;1;Egyesület nélkül;1;10 km;10000;0:44:45;Szolnok
+2666;Oláh Gergő;F;1982;1;Egyesület nélkül;1;10 km;10000;0:55:14;Pécs
+2239;Szalai Márk;F;1967;1;Egyesület nélkül;2;Félmaraton;21098;3:12:58;Kecskemét
+1746;Szabó Eszter;N;1996;3;Mátra SE;1;10 km;10000;0:37:31;Szentendre
+2935;Orsós Csilla;N;2008;1;Egyesület nélkül;3;Maraton;42195;3:20:20;Gödöllő
+2671;Gál Szilvia;N;1956;1;Egyesület nélkül;3;Maraton;42195;3:37:45;Budapest
+1529;Kis Tímea;N;1971;1;Egyesület nélkül;1;10 km;10000;0:56:29;Szeged
+2241;Farkas Levente;F;1977;4;Tisza Runners;2;Félmaraton;21098;1:56:16;Vác
+1358;Németh Kristóf;F;1991;1;Egyesület nélkül;1;10 km;10000;0:37:05;Veszprém
+1390;Király Katalin;N;1997;6;Pannon Futók;2;Félmaraton;21098;2:59:54;Balassagyarmat
+2625;Katona Vivien;N;1959;1;Egyesület nélkül;1;10 km;10000;1:25:32;Kecskemét
+1725;Kis Boglárka;N;1965;1;Egyesület nélkül;2;Félmaraton;21098;3:28:54;Gödöllő
+1380;Fekete András;F;1963;7;Balaton Running Club;1;10 km;10000;0:46:46;Szentendre
+1117;Simon Lili;N;2004;9;Kékes Futóbarátok;1;10 km;10000;0:49:05;Gödöllő
+2674;Oláh Zsófia;N;1986;6;Pannon Futók;1;10 km;10000;1:28:38;Veszprém
+2215;Balázs János;F;1971;6;Pannon Futók;2;Félmaraton;21098;3:00:43;Győr
+2010;Orsós Kinga;N;1973;7;Balaton Running Club;1;10 km;10000;DNF;Balassagyarmat
+2755;Kiss Flóra;N;1957;1;Egyesület nélkül;3;Maraton;42195;5:51:08;Gödöllő
+1183;Lakatos István;F;1980;1;Egyesület nélkül;3;Maraton;42195;3:57:31;Eger
+1185;Lukács Balázs;F;1988;1;Egyesület nélkül;1;10 km;10000;0:50:55;Vác
+2708;Balogh Edina;N;1968;3;Mátra SE;2;Félmaraton;21098;1:28:45;Kecskemét
+2810;Balogh Anna;N;1999;8;Alföldi Szél SE;3;Maraton;42195;3:51:04;Szolnok
+2335;László Gergő;F;1956;1;Egyesület nélkül;1;10 km;10000;DNF;Szeged
+2328;Magyar Lili;N;1960;5;Bükk Trail Team;1;10 km;10000;1:36:20;Kecskemét
+1194;Pintér Gábor;F;1987;7;Balaton Running Club;2;Félmaraton;21098;DNF;Debrecen
+2952;Juhász Viktor;F;2000;1;Egyesület nélkül;3;Maraton;42195;3:44:29;Gödöllő
+1672;Papp Norbert;F;1991;4;Tisza Runners;3;Maraton;42195;4:48:58;Balassagyarmat
+2267;Szabó Flóra;N;1962;2;Dunakanyar Futóklub;2;Félmaraton;21098;1:49:34;Budapest
+1224;Lakatos Réka;N;1962;4;Tisza Runners;2;Félmaraton;21098;1:50:52;Gödöllő
+1589;Fehér Judit;N;1961;1;Egyesület nélkül;3;Maraton;42195;4:11:10;Szentendre
+2875;Fodor Beáta;N;1990;4;Tisza Runners;3;Maraton;42195;4:18:02;Budapest
+2025;Németh Tibor;F;1963;2;Dunakanyar Futóklub;3;Maraton;42195;6:44:28;Miskolc
+1993;Horváth Gábor;F;1955;2;Dunakanyar Futóklub;3;Maraton;42195;5:19:14;Budapest
+1160;Takács András;F;1984;7;Balaton Running Club;1;10 km;10000;1:14:29;Szentendre
+1929;Katona Réka;N;1992;1;Egyesület nélkül;2;Félmaraton;21098;1:50:18;Miskolc
+1734;Lukács Nóra;N;1997;1;Egyesület nélkül;1;10 km;10000;0:55:23;Gyöngyös
+2269;Magyar Viktor;F;1986;1;Egyesület nélkül;2;Félmaraton;21098;2:54:24;Budapest
+2343;Fodor Edina;N;1997;3;Mátra SE;2;Félmaraton;21098;2:08:50;Győr
+2093;Balogh Katalin;N;2009;1;Egyesület nélkül;3;Maraton;42195;4:52:56;Eger
+1388;László Viktória;N;2003;1;Egyesület nélkül;1;10 km;10000;0:44:11;Eger
+1869;Balázs Anna;N;1987;1;Egyesület nélkül;2;Félmaraton;21098;2:38:35;Balassagyarmat
